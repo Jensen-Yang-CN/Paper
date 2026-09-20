@@ -1,0 +1,13 @@
+# 论文最终数据集划分（2026-08-29 定版）
+# train: 原始 train（移出 300 张 test 后）；标注为原始（有漏标，仅作训练历史）
+# val:   重标 val（271 张，修正标签，短名 v00001-v00271）
+# test:  重标 test（300 张，修正标签，短名 v00001-v00300）
+path: E:/CodeBase_YangJunJie/ClothingInspection/paper_experiments/week1_vlm_probe
+train: E:/CodeBase_YangJunJie/ClothingInspection/Final_Merged_Dataset_v3/images/train
+val: E:/CodeBase_YangJunJie/ClothingInspection/paper_experiments/week1_vlm_probe/relabeled_val/images
+test: E:/CodeBase_YangJunJie/ClothingInspection/paper_experiments/week1_vlm_probe/relabeled_test/images
+nc: 3
+names:
+  0: hole
+  1: stain
+  2: wrinkle

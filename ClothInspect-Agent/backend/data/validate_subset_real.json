@@ -1,0 +1,46 @@
+{
+  "n_images": 80,
+  "threshold": 0.6,
+  "infer_conf": 0.25,
+  "vlm_mode": "real",
+  "vlm_model": "qwen3-vl-plus",
+  "vlm_calls": 52,
+  "avg_calls_per_img": 0.65,
+  "avg_vlm_latency_ms": 2642,
+  "collab": {
+    "strict": {
+      "P": 0.6195,
+      "R": 0.7447,
+      "F1": 0.6763,
+      "TP": 70,
+      "FP": 43,
+      "FN": 24
+    },
+    "agnostic": {
+      "P": 0.6726,
+      "R": 0.8085,
+      "F1": 0.7343,
+      "TP": 76,
+      "FP": 37,
+      "FN": 18
+    }
+  },
+  "baseline": {
+    "strict": {
+      "P": 0.5575,
+      "R": 0.6702,
+      "F1": 0.6087,
+      "TP": 63,
+      "FP": 50,
+      "FN": 31
+    },
+    "agnostic": {
+      "P": 0.6106,
+      "R": 0.734,
+      "F1": 0.6667,
+      "TP": 69,
+      "FP": 44,
+      "FN": 25
+    }
+  }
+}

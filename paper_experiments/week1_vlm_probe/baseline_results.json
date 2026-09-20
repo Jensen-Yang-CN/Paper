@@ -1,0 +1,85 @@
+{
+  "model": "E:\\CodeBase_YangJunJie\\ClothingInspection\\runs\\detect\\Final_Model_V6\\weights\\best.pt",
+  "conf": 0.4,
+  "iou": 0.5,
+  "imgsz": 640,
+  "eval_date": "2026-08-22",
+  "val_full_271": {
+    "hole": {
+      "TP": 101,
+      "FP": 144,
+      "FN": 51,
+      "Precision": 0.4122,
+      "Recall": 0.6645,
+      "F1": 0.5088
+    },
+    "stain": {
+      "TP": 151,
+      "FP": 141,
+      "FN": 50,
+      "Precision": 0.5171,
+      "Recall": 0.7512,
+      "F1": 0.6126
+    },
+    "wrinkle": {
+      "TP": 19,
+      "FP": 14,
+      "FN": 157,
+      "Precision": 0.5758,
+      "Recall": 0.108,
+      "F1": 0.1818
+    },
+    "ALL": {
+      "TP": 271,
+      "FP": 299,
+      "FN": 258,
+      "Precision": 0.4754,
+      "Recall": 0.5123,
+      "F1": 0.4932
+    }
+  },
+  "val_clean_109": {
+    "hole": {
+      "TP": 101,
+      "FP": 144,
+      "FN": 45,
+      "Precision": 0.4122,
+      "Recall": 0.6918,
+      "F1": 0.5166
+    },
+    "stain": {
+      "TP": 9,
+      "FP": 30,
+      "FN": 33,
+      "Precision": 0.2308,
+      "Recall": 0.2143,
+      "F1": 0.2222
+    },
+    "wrinkle": {
+      "TP": 0,
+      "FP": 1,
+      "FN": 48,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0
+    },
+    "ALL": {
+      "TP": 110,
+      "FP": 175,
+      "FN": 126,
+      "Precision": 0.386,
+      "Recall": 0.4661,
+      "F1": 0.4223
+    }
+  },
+  "mAP_full_271": {
+    "mAP50": 0.406,
+    "mAP50-95": 0.354,
+    "per_class_mAP50": {
+      "hole": 0.5631,
+      "stain": 0.3974,
+      "wrinkle": 0.1014
+    }
+  },
+  "note": "clean_val 为与 train 无 MD5 重叠的子集（论文指标以 clean_val 为准，但样本少；正式 test 集重标后以 test 为准）"
+}

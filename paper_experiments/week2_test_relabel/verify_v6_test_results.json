@@ -1,0 +1,32 @@
+{
+  "data": "E:\\CodeBase_YangJunJie\\ClothingInspection\\paper_experiments\\week1_vlm_probe\\relabeled_test",
+  "label_note": "修正(重标)标签",
+  "mAP": {
+    "mAP50": 0.3874,
+    "mAP50-95": 0.3111,
+    "per_class_mAP50": {
+      "hole": 0.4709,
+      "stain": 0.2649,
+      "wrinkle": 0.1976
+    }
+  },
+  "box_prf": {
+    "ALL": {
+      "TP": 403,
+      "FP": 313,
+      "FN": 446,
+      "Precision": 0.5628,
+      "Recall": 0.4747,
+      "F1": 0.515
+    }
+  },
+  "image_prf": {
+    "TP": 248,
+    "FP": 47,
+    "FN": 3,
+    "Precision": 0.8407,
+    "Recall": 0.988,
+    "F1": 0.9084
+  },
+  "conf": 0.4
+}

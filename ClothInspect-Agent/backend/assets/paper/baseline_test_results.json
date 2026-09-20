@@ -1,0 +1,53 @@
+{
+  "mode": "test",
+  "model": "E:\\CodeBase_YangJunJie\\ClothingInspection\\runs\\detect\\Final_Model_V6\\weights\\best.pt",
+  "conf": 0.4,
+  "iou": 0.5,
+  "imgsz": 640,
+  "eval_date": "2026-08-29",
+  "mAP": {
+    "mAP50": 0.3874,
+    "mAP50-95": 0.3111,
+    "per_class_mAP50": {
+      "hole": 0.4709,
+      "stain": 0.2649,
+      "wrinkle": 0.1976
+    }
+  },
+  "prf_full": {
+    "hole": {
+      "TP": 225,
+      "FP": 133,
+      "FN": 147,
+      "Precision": 0.6285,
+      "Recall": 0.6048,
+      "F1": 0.6164
+    },
+    "stain": {
+      "TP": 82,
+      "FP": 103,
+      "FN": 50,
+      "Precision": 0.4432,
+      "Recall": 0.6212,
+      "F1": 0.5174
+    },
+    "wrinkle": {
+      "TP": 96,
+      "FP": 77,
+      "FN": 249,
+      "Precision": 0.5549,
+      "Recall": 0.2783,
+      "F1": 0.3707
+    },
+    "ALL": {
+      "TP": 403,
+      "FP": 313,
+      "FN": 446,
+      "Precision": 0.5628,
+      "Recall": 0.4747,
+      "F1": 0.515
+    }
+  },
+  "prf_clean": null,
+  "note": "test 模式为论文正式指标（重标 300 张）；val 模式含无泄漏子集仅供参考"
+}

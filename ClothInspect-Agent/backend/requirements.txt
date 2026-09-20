@@ -1,0 +1,14 @@
+# ClothInspect-Agent 后端依赖
+# 说明：若本机已有可用的 ultralytics + torch 环境（推荐 conda 环境 label-studio），
+#       可只补装 fastapi / uvicorn / python-multipart。
+
+fastapi>=0.110
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+pydantic>=2.5
+requests>=2.31
+numpy>=1.23
+opencv-python>=4.8
+Pillow>=10.0
+ultralytics>=8.3
+torch>=2.1

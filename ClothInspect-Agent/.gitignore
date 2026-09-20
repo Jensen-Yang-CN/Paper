@@ -1,0 +1,31 @@
+# 依赖与构建产物
+node_modules/
+frontend/dist/
+.npm-cache/
+.chrome-profile*/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行时数据（上传图、裁剪图、报告、数据库）
+backend/data/uploads/
+backend/data/crops/
+backend/data/reports/
+backend/data/clothinspect.db
+backend/data/ultralytics/
+backend/Ultralytics/
+
+# 密钥：绝不提交
+.env
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+
+# 自检截图（保留 README 引用的正式截图，临时截图由 _ 前缀标识）
+docs/_shot_*.png
+docs/_preview_*.png

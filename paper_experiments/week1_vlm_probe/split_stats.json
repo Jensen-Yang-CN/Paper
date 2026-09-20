@@ -1,0 +1,15 @@
+{
+  "train_total": 2455,
+  "train_unique": 2450,
+  "train_internal_dup_groups": 5,
+  "val_total": 271,
+  "val_leaked": 162,
+  "clean_val": 109,
+  "test_pool_unique": 2288,
+  "test_selected": 300,
+  "test_class_coverage": {
+    "wrinkle": 120,
+    "stain": 120,
+    "hole": 12
+  }
+}

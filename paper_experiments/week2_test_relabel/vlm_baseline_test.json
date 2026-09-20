@@ -1,0 +1,3013 @@
+{
+  "model": "qwen3-vl-plus",
+  "n": 300,
+  "TP": 231,
+  "FP": 14,
+  "FN": 20,
+  "TN": 35,
+  "Precision": 0.9429,
+  "Recall": 0.9203,
+  "F1": 0.9315,
+  "rows": [
+    {
+      "image": "v00001.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像左上区域可见一条斜向浅色细线状痕迹，疑似轻微褶皱或压痕，符合质检标准中‘明显褶皱’的瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00002.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "布面平整均匀，无可见破洞、污渍或明显褶皱，纹理一致，符合合格面料标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00003.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "右上角存在明显破洞，边缘有抽丝和纤维散开，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00004.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "布面平整，无可见破洞、污渍或异常褶皱，条纹清晰均匀。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00005.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "条纹布面平整均匀，无可见破洞、污渍或明显褶皱。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00006.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料中央存在一块边界模糊、颜色深于底布的异常区域，符合污渍（stain）特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00007.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "条纹布料表面平整无破洞、污渍或明显褶皱，纹理均匀清晰。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00008.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在明显深色不规则污渍（疑似油渍或染色污染），位于蓝白条纹布料上，属于stain瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00009.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料右下角存在明显破洞（hole），边缘毛边且透光，符合破洞瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00010.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图中存在多个深色圆点状瑕疵，符合污渍（stain）特征，非正常织物结构。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00011.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料表面存在明显褶皱（斜向折痕），属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00012.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图中存在明显交叉状浅色划痕/压痕，属于不平整的褶皱类瑕疵（wrinkle）"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00013.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "黑白格纹面料表面平整，无可见破洞、污渍或明显褶皱。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00014.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中央偏左区域存在明显破洞，纤维断裂并露出底层结构，符合hole定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00015.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "左下区域存在明显深色不规则褶皱，且局部有扭曲变形，符合质检标准中的wrinkle瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00016.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "面料表面平整无破洞、无污渍、无明显褶皱，纹理清晰均匀。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00017.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料左侧存在明显破洞，边缘毛糙且穿透织物结构，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00018.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多处深色不规则斑点与边缘模糊的色块，符合污渍（stain）特征，非正常印花图案。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00019.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.92,
+        "reason": "图像为印花面料局部，无可见破洞、污渍或明显褶皱，纹理均匀，属正常印刷图案区域。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00020.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈现均匀灰调纹理，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00021.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在明显斜向褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00022.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像呈现均匀灰度纹理，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00023.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像右侧可见明显纵向褶皱，属于质检定义中的瑕疵"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00024.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在明显纵向条纹状不平整区域，符合质检标准中‘褶皱’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00025.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体均匀平整，无可见破洞、污渍或明显褶皱，符合无瑕疵标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00026.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见多条平行的明显褶皱痕迹，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00027.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈现均匀灰色织物纹理，无可见破洞、污渍或明显褶皱，表面平整一致。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00028.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见多处纵向条纹状不平整区域，符合质检标准中‘明显褶皱’的定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00029.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见多条纵向平行的明显折痕/褶皱，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00030.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见一条明显斜向折痕，属于质检标准中的褶皱瑕疵（wrinkle）。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00031.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见一条明显横向折痕（死褶），属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00032.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "右侧边缘存在明显不规则凸起与纤维堆积，符合褶皱类瑕疵特征（死褶/折痕），非正常织物平整状态。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00033.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多条平行细线状异常痕迹，疑似织造瑕疵或轻微褶皱，符合质检标准中‘wrinkle 褶皱’定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00034.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多处明显褶皱，尤其右上区域有深色折痕阴影，符合质检标准中的wrinkle瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00035.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布料表面存在多条纵向明显褶皱，属于质检定义中的瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00036.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多条明显纵向褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00037.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在明显横向折痕与局部不平整，符合质检标准中的wrinkle褶皱瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00038.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中部存在一条横向明显折痕，符合质检标准中‘wrinkle 褶皱’的定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00039.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多条纵向明显褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00040.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在明显纵向褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00041.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多条明显纵向褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00042.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面存在多处明显横向褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00043.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多条纵向明显褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00044.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像呈现均匀的横向细密纹理，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00045.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像整体为均匀深色纹理表面，无可见孔洞、污渍或明显褶皱，符合平整干净标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00046.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像呈现均匀深灰色纹理表面，无可见破洞、污渍或明显褶皱，整体平整洁净。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00047.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像呈现均匀灰色纹理，无可见破洞、污渍或明显褶皱，表面平整一致。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00048.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像整体为均匀深色纹理表面，无可见破洞、污渍或明显褶皱，符合平整干净标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00049.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在横向条带状明暗不均区域，符合褶皱导致的光影变化特征，属于明显不平整瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00050.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像整体均匀灰黑，无可见破洞、污渍或明显褶皱，表面纹理一致，符合平整干净标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00051.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像呈现均匀灰度纹理，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00052.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体灰度均匀，无可见破洞、污渍或明显褶皱，表面呈现一致织物纹理，符合平整干净标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00053.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体均匀灰暗，无可见破洞、污渍或明显褶皱，符合平整干净的布料表面特征。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00054.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈现均匀灰度纹理，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00055.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈均匀灰黑色，无可见孔洞、污渍或明显褶皱，表面纹理一致，符合平整干净标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00056.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多处模糊暗影区域，呈现不规则灰度变化，符合污渍（stain）特征，非均匀织物本底纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00057.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在模糊但可辨的局部暗色区域与纹理不连续，疑似污渍或轻微褶皱，结合质检标准应判定为瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00058.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像左上区域存在模糊暗影，疑似局部污渍或轻微褶皱导致的不均匀反光，不符合完全平整干净标准。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00059.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中部存在模糊暗影区域，疑似局部污渍或轻微褶皱导致的不均匀反光，不符合完全平整干净标准。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00060.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像呈现均匀灰色织物表面，无可见破洞、污渍或明显褶皱，纹理一致且平整。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00061.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像呈现均匀灰色织物表面，无可见破洞、污渍或明显褶皱，纹理一致且平整。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00062.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多处不规则暗影与纵向条纹状异常，疑似污渍或局部压痕褶皱，不符合完全平整干净标准。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00063.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见中部偏下区域存在一条垂直方向的模糊暗纹，疑似轻微污渍或局部染色不均，符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00064.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多条交叉的明显褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00065.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多条明显斜向褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00066.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多处横向条纹状不平整区域，符合质检标准中‘明显褶皱’的定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00067.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "右侧布料边缘存在明显毛边与不规则纤维散开，属于织物结构破损，符合破洞类瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00068.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈现均匀的横向纹理，无可见破洞、污渍或明显褶皱，符合平整干净标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00069.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多条斜向明显褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00070.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像呈现明显斜向条纹状不平整纹理，符合质检标准中‘褶皱’类瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00071.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多条明显纵向褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00072.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多处明显斜向褶皱，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00073.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "右侧边缘呈现不规则毛边与纤维撕裂状，属于明显织物破损（破洞类瑕疵）"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00074.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在明显不规则褶皱，局部有阴影和隆起，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00075.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像左侧存在明显斜向褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00076.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见明显斜向褶皱线条，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00077.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像为均匀黑色面料，无可见破洞、污渍或明显褶皱，表面平整一致。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00078.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像呈现均匀深色纹理表面，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00079.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见明显斜向褶皱与不平整区域，符合质检标准中的wrinkle瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00080.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像右下区域可见明显褶皱，属于质检标准中的瑕疵类型。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00081.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图像中存在明显斜向褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00082.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈现均匀灰度纹理，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00083.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右侧边缘附近存在一处深色不规则斑点，疑似污渍（stain），且布面有轻微褶皱痕迹。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00084.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.75,
+        "reason": "图像中可见几处浅色不规则痕迹，疑似轻微污渍或纤维异色区域，符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00085.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.75,
+        "reason": "图像中可见几处浅色不规则模糊区域，疑似轻微污渍或局部纤维异常，符合stain或微瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00086.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在明显横向褶皱与局部不平整，符合质检标准中的wrinkle瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00087.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像呈现均匀灰色纹理，无可见破洞、污渍或明显褶皱，表面平整一致。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00088.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像呈现均匀灰色纹理，无可见破洞、污渍或明显褶皱，表面平整一致。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00089.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图像整体呈现均匀灰度但存在细微水平条纹状纹理，疑似布料表面褶皱或压痕导致的光影不均，符合质检标准中‘明显褶皱’的定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00090.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像右上角存在模糊但可辨的深色不规则区域，疑似污渍或局部褶皱导致的阴影，结合整体灰度不均，判定为瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00091.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体灰度均匀，无可见破洞、污渍或明显褶皱，表面平整"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00092.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在明显斜向褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00093.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右侧边缘存在明显纵向褶皱与压痕，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00094.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像左侧及中部存在明显不规则褶皱与压痕，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00095.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在一条明显斜向折痕，属于质检标准中的wrinkle褶皱瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00096.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在明显不规则暗区与纹理扭曲，符合褶皱（wrinkle）特征，局部呈现折痕状阴影。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00097.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像呈现均匀灰色织物表面，无可见破洞、污渍或明显褶皱，纹理一致且平整。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00098.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像呈现均匀网格纹理，无可见破洞、污渍或明显褶皱，整体平整洁净。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00099.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像左侧边缘存在明显纵向折痕，属于质检标准中的wrinkle褶皱瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00100.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像底部存在明显波浪状褶皱（wrinkle），属于质检定义中的瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00101.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像左侧边缘可见明显纵向折痕与局部不平整，符合质检标准中的wrinkle褶皱瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00102.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像左侧可见一条垂直细线状异常，疑似微小破洞或纱线断裂导致的线性瑕疵，符合hole类缺陷特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00103.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见明显斜向褶皱痕迹，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00104.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像整体均匀平整，无可见破洞、污渍或明显褶皱，呈现标准织物网格纹理且无异常变形。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00105.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多处不规则褶皱，尤其右下区域有明显折痕，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00106.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像整体为均匀深色织物表面，无可见破洞、污渍或明显褶皱，纹理细密且平整。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00107.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像整体呈均匀灰度网格纹理，无可见破洞、污渍或明显褶皱，符合平整干净标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00108.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.65,
+        "reason": "图像中存在模糊的浅色条状异常区域，疑似轻微污渍或局部织物变形，结合低对比度与网格纹理干扰，倾向判定为潜在stain或微褶皱瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00109.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像整体偏暗且存在细微网格状不均匀纹理，疑似布料表面褶皱或轻微压痕导致的光影异常，符合质检中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00110.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈均匀灰暗网格状，无可见破洞、污渍或明显褶皱，符合平整干净标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00111.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体为均匀深色网格纹理，无可见破洞、污渍或明显褶皱，表面平整一致。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00112.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈现均匀灰度网格纹理，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00113.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在多处明显横向褶皱与不平整纹理，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00114.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见明显横向褶皱与不平整区域，符合质检标准中的wrinkle瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00115.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多处明显褶皱与折痕，尤其左下和中部区域有不平整的死褶，符合质检标准中的wrinkle瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00116.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈现均匀网格纹理，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00117.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像右下角可见明显斜向褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00118.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像右上区域存在明显斜向褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00119.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像右下角可见一条细长浅色线状痕迹，疑似微小破洞或织物结构异常，符合hole类瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00120.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像整体呈现均匀网格纹理，无可见破洞、污渍或明显褶皱，符合平整干净的质检标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00121.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，布料被撕裂露出底层橙色网格衬里，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00122.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "图中存在多处明显破洞（hole），表现为贯穿布料的黑色不规则长条状缺损，符合破洞定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00123.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，边缘有大量抽丝和纤维散开，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00124.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在明显破洞，边缘毛边且露出粉红色内衬，符合hole破洞定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00125.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞（hole），布料被撕裂形成两个穿透性孔洞，边缘毛边严重。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00126.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，蓝色牛仔布料被撕裂，露出红色内衬及散开的白色纱线。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00127.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，边缘有大量毛边纤维，属于hole瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00128.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，布料纤维撕裂并露出底层黑色衬布，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00129.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在明显凹陷与压痕，呈现规则条纹状压印及局部塌陷，符合质检标准中‘褶皱’类瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00130.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在明显穿透性破洞，边缘不规则且有纤维撕裂痕迹，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00131.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.99,
+        "reason": "布料中央存在明显穿透性破洞，边缘纤维撕裂，符合‘hole 破洞’定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00132.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料中央存在明显穿透性破洞，边缘呈撕裂状毛边，符合‘hole 破洞’定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00133.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞（hole），边缘毛边且穿透布料，露出底层黑色衬里。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00134.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.99,
+        "reason": "布料上存在明显破洞，边缘有大量抽丝和毛边，符合‘hole 破洞’定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00135.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在明显破洞，边缘纤维撕裂外露，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00136.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在明显破洞，边缘有抽丝和线头，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00137.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料存在明显破洞，纱线断裂并露出白色纬纱，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00138.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "图像中存在两个明显破洞（左上和右下），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00139.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "右下角存在明显破洞，纱线散开形成穿透性孔洞，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00140.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.99,
+        "reason": "存在明显破洞（hole），布料被撕裂形成两个穿透性孔洞，边缘毛边严重。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00141.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料中央存在明显穿透性破洞，边缘有毛边和纤维散开，符合hole破洞定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00142.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料中央存在明显破洞，纱线断裂并露出白色底层，符合hole破洞定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00143.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在明显破洞，边缘毛糙且穿透织物，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00144.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，露出红色格纹内衬，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00145.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在明显破洞，露出橙色内衬，符合hole破洞定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00146.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在多个明显破洞（hole），包括左上、中部及右下区域的穿透性孔洞，符合瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00147.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料表面存在多个明显破洞（如左下角大孔、中部及右上小孔），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00148.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在多个明显破洞（如左下、中部、右上等处），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00149.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞（中央大孔及周围多个小孔），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00150.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料存在明显破洞（大唇形开口及多个小孔）和多处黑色污渍点，符合hole与stain瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00151.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料存在明显破洞（中央大孔及上方多个小孔），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00152.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料存在明显破洞，边缘毛边且露出橙色内衬，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00153.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，布料纤维撕裂形成穿透性孔洞，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00154.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在两个明显破洞（hole），边缘有纤维撕裂，穿透底层深色织物。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00155.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞（hole），布料被撕裂形成多个穿透性孔洞，边缘毛糙，符合破洞瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00156.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料存在明显破洞，边缘毛边撕裂，露出底层皮肤，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00157.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在多处白色不规则区域，呈现纤维断裂或涂层剥落状，符合破洞（hole）特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00158.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料中央存在明显纵向破洞，边缘纤维撕裂外露，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00159.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料中央存在明显破洞，边缘纤维撕裂外露，符合hole破洞定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00160.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞（hole），布料被撕裂形成不规则孔洞，边缘毛边且露出底层白色衬里与星形图案。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00161.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，蓝色牛仔布料被撕裂露出红色内衬，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00162.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞（hole），布料纤维撕裂形成多个穿透性孔洞，尤其左侧大块区域为典型磨损破洞。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00163.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料右侧存在明显破洞，边缘纤维撕裂外露，符合‘hole 破洞’定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00164.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "图中存在两个明显破洞（hole），边缘毛边且穿透布料，属于严重瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00165.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，边缘纤维撕裂外露，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00166.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图像中存在大量不规则浅色斑点与凹陷状纹理，符合污渍（stain）或表面压痕/浮凸异常特征，非均匀平整布面。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00167.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图像呈现明显不规则凹凸起伏的纹理，符合质检标准中‘wrinkle 褶皱’定义，属于布料不平整瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00168.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图像中存在大量不规则浅色斑点与凹陷区域，符合污渍（stain）或局部织物结构异常（如压痕/起泡），属于明显瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00169.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像为透明背景上的模糊光斑，非真实布料表面，无破洞、污渍或褶皱等实际面料瑕疵。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00170.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.99,
+        "reason": "存在明显破洞（hole），布料被撕裂形成贯穿性开口，露出底层橙色织物。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00171.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞，布料被撕裂露出内层粉色衬里，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00172.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料存在明显破洞，露出下方红色背景，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00173.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料表面存在多个规则排列的穿孔，属于人为设计的透气孔而非破洞，但根据题干定义‘hole 破洞：布料上的孔洞、穿透破口（可能很小）’，此类穿透性孔洞仍被归类为瑕疵，故判定为缺陷。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00174.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在多个深色圆形孔洞（疑似破洞），且部分孔洞边缘不规则，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00175.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料表面存在规则排列的穿孔，属于人为设计的透气孔而非破洞，但根据题设‘hole 破洞：布料上的孔洞、穿透破口（可能很小）’，未明确排除设计孔，且孔洞边缘部分有毛边与轻微变形，符合破洞类瑕疵判定标准。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00176.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "图像中心存在明显破洞（hole），边缘不规则且穿透布料网格结构。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00177.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "存在明显破洞（hole），布料被撕裂形成两个横向穿透性孔洞，边缘有大量毛边和断纱。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00178.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "图中存在三处明显破洞（hole），纱线断裂外露，属于穿透性损伤。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00179.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "右侧存在明显破洞，边缘纤维撕裂外露；左侧散布多个白色斑点，疑似污渍。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00180.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料中央可见一个微小但清晰的深色点状破洞（hole），穿透织物结构。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00181.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在明显不规则褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00182.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在明显波浪状褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00183.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在明显褶皱，呈现波浪状不平整，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00184.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在明显波浪状褶皱，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00185.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "左上区域可见一个微小但清晰的孔洞（疑似破洞），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00186.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "左上区域可见一个微小但清晰的穿孔（疑似破洞），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00187.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "右侧存在一个明显的小孔洞（疑似破洞），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00188.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料左侧存在一个明显的小孔洞（破洞），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00189.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料中央可见一个微小但清晰的穿孔（疑似破洞），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00190.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料中央存在一个微小但清晰可见的穿孔状破洞，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00191.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料中央存在一个明显的小孔洞（疑似破洞），符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00192.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料中央有一处明显小孔（疑似破洞），且整体呈现波浪状褶皱，属于质检定义的瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00193.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在明显波浪状褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00194.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在明显褶皱与不平整区域，尤其中央椭圆形区域边缘有清晰折痕，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00195.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在明显褶皱与折痕，尤其中央椭圆形区域边缘有清晰压痕，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00196.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中央偏下可见一条细长暗色线状痕迹，疑似轻微污渍或纤维异色，符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00197.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右上角可见一个微小深色点状异常，疑似破洞或污渍，结合纹理背景判断为潜在瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00198.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图像中央存在明显线状穿刺痕迹及局部纤维断裂，符合破洞（hole）特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00199.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料中央存在一个明显的白色椭圆形破洞，边缘清晰，属于穿透性孔洞瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00200.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图像中央存在一个明显的白色椭圆形区域，边缘清晰，疑似布料上的破洞（hole），且周围有细线悬挂，符合穿透性孔洞特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00201.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料中央存在一个明显的小破洞，边缘有纤维散开，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00202.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料中央存在一个微小但清晰的破洞（hole），呈不规则孔状，穿透织物结构。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00203.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中央可见一个深色小孔状区域，符合破洞（hole）特征，且边缘清晰、穿透性明显。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00204.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料中央存在一个明显的小孔洞，符合破洞（hole）定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00205.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布料中央存在一个浅色小斑点，疑似污渍（stain）"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00206.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布料中央存在一个浅色小斑点，疑似污渍（stain）"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00207.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布料表面存在多处纵向黄褐色条状污渍，符合stain污渍定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00208.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布料表面存在多处浅黄色污渍及局部不规则色斑，符合stain污渍定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00209.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面存在多处细小深色斑点，疑似污渍（stain），且局部有轻微不规则凹陷与纹理紊乱，符合瑕疵判定标准。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00210.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多处深色斑点与不规则纹理，符合污渍（stain）特征，且局部有细微凹凸疑似微小破洞或织物损伤。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00211.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "左下角存在一个深色小点，疑似污渍或微小破洞，符合stain或hole的瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00212.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "右上角存在明显深色污渍（疑似油渍或染色污染），且局部有轻微褶皱痕迹。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00213.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "右上角存在明显深色污渍，边缘不规则，疑似油渍或染色污染。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00214.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "布面纹理均匀，无可见破洞、污渍或异常褶皱，仅呈现正常针织结构与轻微自然光泽。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00215.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "左上角存在一块黄褐色不规则色斑，符合污渍（stain）特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00216.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "布料表面纹理均匀，无可见破洞、污渍或明显褶皱，整体平整洁净。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00217.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右侧布面存在局部颜色偏黄、纹理不均的疑似污渍区域，且左侧有明显阴影过渡，可能为褶皱或局部压痕导致的不平整。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00218.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.92,
+        "reason": "布面整体平整均匀，无可见破洞、污渍或明显褶皱，仅左侧阴影为光照导致，非面料瑕疵。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00219.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布料中央存在一条细长浅色痕迹，疑似线头残留或轻微刮擦导致的局部织物结构异常，符合瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00220.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布料中央存在一条细长浅色痕迹，疑似轻微污渍或纤维异常，符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00221.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料中央存在一个明显的小孔洞，符合‘hole 破洞’定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00222.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料左侧存在一条细长白色异物或线头状瑕疵，疑似轻微破洞或抽丝导致的局部结构异常。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00223.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料中央存在两个白色小点，疑似线头残留或微小破洞，符合hole类瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00224.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布料表面存在一处浅色小污渍（疑似水渍或轻微油渍），且局部有轻微褶皱，符合stain和wrinkle瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00225.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "左上角存在明显白色斑点状污渍，另有一处黄褐色小污点，符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00226.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料表面存在一个明显的小孔洞（疑似破洞），且伴随轻微纤维拉丝痕迹，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00227.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.98,
+        "reason": "布料上存在明显破洞，边缘有撕裂纤维，符合hole瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00228.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见多个深色模糊斑点，符合污渍（stain）特征，且布面纹理清晰排除褶皱干扰，疑似油渍或染色污染。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00229.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面中央存在一个深色小污点，符合stain污渍定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00230.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像左侧可见一条纵向明显褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00231.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图中存在两处明显深色污渍（疑似指纹印），属于stain类瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00232.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面存在多处灰白色模糊斑块，符合污渍（stain）特征，非织物本色纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00233.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右下角存在一处模糊但明显的浅色污渍状区域，符合stain定义；左上亦有微小暗斑，疑似轻微污渍或织造瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00234.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "图像中存在多处明显褶皱与压痕，尤其在中上部和左下区域形成不规则阴影带，属于质检标准中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00235.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面中央存在一处边界模糊的浅灰色斑块，符合污渍（stain）特征，非织物本底纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00236.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面存在明显不规则暗影区域，符合褶皱（wrinkle）特征，非均匀平整状态。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00237.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面中央存在一处模糊但明显的浅灰色不规则区域，符合污渍（stain）特征，非织物本色纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00238.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右上角存在一处模糊的灰暗区域，疑似轻微污渍或局部压痕导致的色差，符合stain类瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00239.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面存在多处明显褶皱与压痕，尤其中部呈交叉状折痕，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00240.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面存在明显褶皱与压痕，尤其左下区域有弧形折痕，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00241.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在多个深色不规则斑点，符合污渍（stain）特征，且非织物本色纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00242.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料表面存在明显褶皱，且右上角有深色不规则斑块疑似污渍或印染异常。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00243.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "图中存在两处明显深色污渍（stain），形态不规则且与底布颜色差异显著，符合污渍类瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00244.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面右侧存在一条深色弧形痕迹，疑似污渍或局部染色异常，符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00245.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右侧存在一条深色弧形痕迹，疑似污渍或局部染色异常，符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00246.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右上角存在一片模糊的浅色不规则区域，符合污渍（stain）特征，疑似水渍或轻微油渍渗透导致的纹理与明暗异常。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00247.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面存在多处深色斑点状污渍（左上、右上、中下及右侧），符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00248.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面存在多处深色污渍（疑似油渍或墨点）及明显褶皱，符合stain与wrinkle瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00249.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "左下及右上区域存在深色不规则痕迹，符合污渍（stain）特征，非织物本底纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00250.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面存在多个深色点状异常，符合污渍（stain）特征，非织物本色纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00251.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中央存在一处深色模糊斑块，符合污渍（stain）特征，非织物本色且边界不规则。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00252.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "左上角存在明显深色污渍区域，且散布细小黑点，符合stain污渍定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00253.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在两处明显深色污渍（stain），且右侧有斜向褶皱痕迹（wrinkle），符合瑕疵判定标准。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00254.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "左上角存在三个深色圆形斑点，符合污渍（stain）特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00255.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "右上角存在明显灰黑色不规则污渍，左上部有数个深色小点，符合stain污渍定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00256.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.65,
+        "reason": "右下角存在模糊的灰暗区域，疑似局部污渍或压痕，虽不显著但偏离均匀纹理，符合stain嫌疑。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00257.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右上角存在局部灰度加深区域，符合污渍（stain）特征，非均匀织物纹理所致。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00258.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.75,
+        "reason": "图像右上方可见一处微小弧形纤维异物（疑似毛发或细线），属于轻微污染类瑕疵；另左上角存在轻微不规则纹理起伏，可能为隐性褶皱。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00259.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.75,
+        "reason": "图像中部可见一处浅灰色模糊斑点，疑似轻微污渍或局部染色不均，符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00260.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像显示布料表面均匀平整，无可见破洞、污渍或明显褶皱，仅存在微弱织物纹理与少量随机噪点，属正常成像现象。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00261.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "布面均匀平整，无可见破洞、污渍或明显褶皱，纹理一致且无异常区域。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00262.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右上区域存在一处边界模糊、颜色较深的局部异常区域，符合污渍（stain）特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00263.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见两处模糊灰暗区域，符合污渍（stain）特征，非均匀织物本底纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00264.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像显示均匀细密的织物纹理，无可见破洞、污渍或明显褶皱，整体平整洁净。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00265.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "表面呈现均匀细密的蜂窝状纹理，无可见破洞、污渍或明显褶皱，整体平整洁净。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00266.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "布面整体平整均匀，无可见破洞、污渍或明显褶皱，仅存在轻微织物纹理与光照反差属正常现象。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00267.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像呈现均匀细密的织物纹理，无可见破洞、污渍或明显褶皱，整体平整洁净。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00268.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "布面均匀平整，无可见破洞、污渍或明显褶皱，纹理一致且无异常区域。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00269.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "布面均匀致密，无可见破洞、污渍或明显褶皱，仅存在微小颗粒状纹理属正常织物结构。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00270.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面存在两处模糊但明显的浅色斑块，疑似水渍或轻微污渍（stain），且局部纹理略显不均，符合污渍类瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00271.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面存在多处深色模糊斑块，符合污渍（stain）特征，且非织物本底纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00272.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面左侧存在一处灰黑色不规则模糊区域，符合污渍（stain）特征，非织物本色且边界不清，疑似沾染异物。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00273.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "左上区域存在灰黑色不规则污渍痕迹，符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00274.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "左上区域存在明显深色污渍（stain），且布面有轻微不均匀阴影，符合污渍特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00275.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像左下角可见一个深色小点，疑似微小破洞或污渍；另上部有少量黑点杂质，符合stain或hole类瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00276.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在明显斜向褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00277.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中上部可见一条细长暗色折痕，符合质检标准中‘wrinkle 褶皱’的定义，属于明显不平整瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00278.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面中央存在一处灰黑色不规则斑点，符合污渍（stain）特征，非织物本色纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00279.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见多处细微但清晰的深色小点，疑似微小破洞或杂质附着，符合hole或stain类瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00280.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面存在两个明显深色点状异常区域，符合污渍（stain）特征，非织物本底纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00281.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面中央存在一处灰黑色模糊斑块，疑似污渍（stain），与周围织物纹理对比明显。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00282.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在明显斜向褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00283.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面存在多处深色污渍（如右下角明显团状暗斑及左上零星黑点），符合stain定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00284.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中央存在明显不规则阴影区域，符合褶皱导致的局部堆叠与光影变化特征，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00285.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.98,
+        "reason": "图像显示为均匀平整的织物表面，无可见破洞、污渍或明显褶皱。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00286.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面存在明显斜向褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00287.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面中央存在一个深色小点，符合污渍（stain）特征，非织物本色纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00288.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布面右下方存在一个深色小污点，符合stain污渍定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00289.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.95,
+        "reason": "布料表面存在多处明显褶皱（如中央斜向折痕），属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00290.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在局部灰度不均的模糊暗区，符合污渍（stain）特征，非均匀织物纹理所致。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00291.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中存在多处不规则暗影区域，符合污渍（stain）特征，且局部纹理异常，非均匀织物本底。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00292.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中央存在一个模糊的浅灰色圆形区域，符合污渍（stain）特征，非织物本体纹理。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00293.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面存在局部轻微褶皱与不平整区域，尤其右下角可见明显折痕痕迹，符合质检标准中‘wrinkle’瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00294.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "布面存在多处斜向不规则暗纹，符合褶皱（wrinkle）特征，非均匀织物纹理所致。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00295.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.92,
+        "reason": "布料表面存在明显斜向褶皱，属于质检定义中的wrinkle瑕疵。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00296.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": false,
+        "confidence": 0.95,
+        "reason": "图像显示布料表面均匀平整，无可见破洞、污渍或明显褶皱，纹理一致，符合合格标准。"
+      },
+      "vlm_has": false
+    },
+    {
+      "image": "v00297.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见局部区域存在轻微但可辨的褶皱痕迹，尤其在右上及左下区域呈现不规则起伏纹理，不符合平整无瑕疵标准。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00298.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像右侧存在明显斜向褶皱，导致纹理变形与明暗不均，符合质检标准中的wrinkle瑕疵定义。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00299.jpg",
+      "gt_has": false,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "图像中可见一处微小黑点，疑似破洞或异物附着，符合hole类瑕疵特征。"
+      },
+      "vlm_has": true
+    },
+    {
+      "image": "v00300.jpg",
+      "gt_has": true,
+      "vlm_pred": {
+        "is_defect": true,
+        "confidence": 0.85,
+        "reason": "右上角及右下角存在灰黑色不规则斑块，符合污渍（stain）特征。"
+      },
+      "vlm_has": true
+    }
+  ]
+}

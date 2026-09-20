@@ -1,0 +1,6212 @@
+[
+ {
+  "image": "085075_jpg.rf.4345de8521ca8a068dc6b447a3f3004b.jpg",
+  "record": {
+   "actions": {
+    "085075_jpg.rf.4345de8521ca8a068dc6b447a3f3004b_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085075_jpg.rf.4345de8521ca8a068dc6b447a3f3004b_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "085075_jpg.rf.4345de8521ca8a068dc6b447a3f3004b_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085088_jpg.rf.f0953a7eded577b402d4c712c9e55db7.jpg",
+  "record": {
+   "actions": {
+    "085088_jpg.rf.f0953a7eded577b402d4c712c9e55db7_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085116_jpg.rf.905667a3bab9245eb38766ab01e15d09.jpg",
+  "record": {
+   "actions": {
+    "085116_jpg.rf.905667a3bab9245eb38766ab01e15d09_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085116_jpg.rf.905667a3bab9245eb38766ab01e15d09_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085127_jpg.rf.25fd23f47bf38db83d74f0843216814b.jpg",
+  "record": {
+   "actions": {
+    "085127_jpg.rf.25fd23f47bf38db83d74f0843216814b_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085133_jpg.rf.45b5ecbe84cf465095eb3caad063412a.jpg",
+  "record": {
+   "actions": {
+    "085133_jpg.rf.45b5ecbe84cf465095eb3caad063412a_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "085133_jpg.rf.45b5ecbe84cf465095eb3caad063412a_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085133_jpg.rf.b0c3e0aec9ec85d1b3c360f1106f2992.jpg",
+  "record": {
+   "actions": {
+    "085133_jpg.rf.b0c3e0aec9ec85d1b3c360f1106f2992_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "085133_jpg.rf.b0c3e0aec9ec85d1b3c360f1106f2992_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085134_jpg.rf.243987cb4203c1744745e2e95f605a32.jpg",
+  "record": {
+   "actions": {
+    "085134_jpg.rf.243987cb4203c1744745e2e95f605a32_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085134_jpg.rf.e7ee6dacd5590faebe00ccd5b7ab05ab.jpg",
+  "record": {
+   "actions": {
+    "085134_jpg.rf.e7ee6dacd5590faebe00ccd5b7ab05ab_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085136_jpg.rf.4e38f9aa467922b8cd23f743e7c47796.jpg",
+  "record": {
+   "actions": {
+    "085136_jpg.rf.4e38f9aa467922b8cd23f743e7c47796_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085136_jpg.rf.4e38f9aa467922b8cd23f743e7c47796_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085136_jpg.rf.d089284c93d9f2fb7322a83c13df7d0f.jpg",
+  "record": {
+   "actions": {
+    "085136_jpg.rf.d089284c93d9f2fb7322a83c13df7d0f_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "085136_jpg.rf.d089284c93d9f2fb7322a83c13df7d0f_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "085136_jpg.rf.d089284c93d9f2fb7322a83c13df7d0f_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085138_jpg.rf.1f0e9e2776de91ede0fbb69a7b0a2253.jpg",
+  "record": {
+   "actions": {
+    "085138_jpg.rf.1f0e9e2776de91ede0fbb69a7b0a2253_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085138_jpg.rf.1f0e9e2776de91ede0fbb69a7b0a2253_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085138_jpg.rf.e9543a3f2f01cc6cff320709263e712e.jpg",
+  "record": {
+   "actions": {
+    "085138_jpg.rf.e9543a3f2f01cc6cff320709263e712e_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085138_jpg.rf.e9543a3f2f01cc6cff320709263e712e_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085138_jpg.rf.e9543a3f2f01cc6cff320709263e712e_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085141_jpg.rf.8b3ebe0da54827b1acd2182b7901b01f.jpg",
+  "record": {
+   "actions": {
+    "085141_jpg.rf.8b3ebe0da54827b1acd2182b7901b01f_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "085141_jpg.rf.8b3ebe0da54827b1acd2182b7901b01f_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085141_jpg.rf.a846498d373fb743f4c7f05e47a164f0.jpg",
+  "record": {
+   "actions": {
+    "085141_jpg.rf.a846498d373fb743f4c7f05e47a164f0_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085142_jpg.rf.0854afda9bbc20cfdd225e5c0c172c71.jpg",
+  "record": {
+   "actions": {
+    "085142_jpg.rf.0854afda9bbc20cfdd225e5c0c172c71_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085142_jpg.rf.0854afda9bbc20cfdd225e5c0c172c71_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085142_jpg.rf.0854afda9bbc20cfdd225e5c0c172c71_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085142_jpg.rf.682266973bf41bc74fe2842cb14d2312.jpg",
+  "record": {
+   "actions": {
+    "085142_jpg.rf.682266973bf41bc74fe2842cb14d2312_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085142_jpg.rf.682266973bf41bc74fe2842cb14d2312_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085142_jpg.rf.682266973bf41bc74fe2842cb14d2312_y2": {
+     "keep": false,
+     "category": "none"
+    },
+    "085142_jpg.rf.682266973bf41bc74fe2842cb14d2312_y3": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085144_jpg.rf.80acad74b9c069a9e20acfc1024121ef.jpg",
+  "record": {
+   "actions": {
+    "085144_jpg.rf.80acad74b9c069a9e20acfc1024121ef_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "085144_jpg.rf.80acad74b9c069a9e20acfc1024121ef_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085144_jpg.rf.80acad74b9c069a9e20acfc1024121ef_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085144_jpg.rf.d6df58d69db565f971caae78182a3ddb.jpg",
+  "record": {
+   "actions": {
+    "085144_jpg.rf.d6df58d69db565f971caae78182a3ddb_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "085144_jpg.rf.d6df58d69db565f971caae78182a3ddb_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "085144_jpg.rf.d6df58d69db565f971caae78182a3ddb_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085146_jpg.rf.0c6a6afe3b202b10102e478d2934806c.jpg",
+  "record": {
+   "actions": {
+    "085146_jpg.rf.0c6a6afe3b202b10102e478d2934806c_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085146_jpg.rf.7e501be6fc6b076be4daa1c5c9f23019.jpg",
+  "record": {
+   "actions": {
+    "085146_jpg.rf.7e501be6fc6b076be4daa1c5c9f23019_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085146_jpg.rf.7e501be6fc6b076be4daa1c5c9f23019_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085149_jpg.rf.32c268528c03c2c84754c33b5f640928.jpg",
+  "record": {
+   "actions": {
+    "085149_jpg.rf.32c268528c03c2c84754c33b5f640928_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085149_jpg.rf.9ff9b8bc8a543d7e943ebc30ad63c624.jpg",
+  "record": {
+   "actions": {},
+   "added": []
+  }
+ },
+ {
+  "image": "085150_jpg.rf.b178aa2c44e9726fc945e09e272732e5.jpg",
+  "record": {
+   "actions": {
+    "085150_jpg.rf.b178aa2c44e9726fc945e09e272732e5_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085150_jpg.rf.b178aa2c44e9726fc945e09e272732e5_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "085150_jpg.rf.b178aa2c44e9726fc945e09e272732e5_y2": {
+     "keep": false,
+     "category": "none"
+    },
+    "085150_jpg.rf.b178aa2c44e9726fc945e09e272732e5_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "085150_jpg.rf.ea58185affc9dc395e502b9f421fcb7a.jpg",
+  "record": {
+   "actions": {
+    "085150_jpg.rf.ea58185affc9dc395e502b9f421fcb7a_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "085150_jpg.rf.ea58185affc9dc395e502b9f421fcb7a_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "085150_jpg.rf.ea58185affc9dc395e502b9f421fcb7a_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "240_F_91356737_7a6VIq8NMH0F3elMluzJ1BAW28hFRcQO_jpg.rf.4a4dd5801c6984a623e6bb2df3ca556d.jpg",
+  "record": {
+   "actions": {
+    "240_F_91356737_7a6VIq8NMH0F3elMluzJ1BAW28hFRcQO_jpg.rf.4a4dd5801c6984a623e6bb2df3ca556d_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "240_F_91356737_7a6VIq8NMH0F3elMluzJ1BAW28hFRcQO_jpg.rf.4a4dd5801c6984a623e6bb2df3ca556d_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_91356737_7a6VIq8NMH0F3elMluzJ1BAW28hFRcQO_jpg.rf.4a4dd5801c6984a623e6bb2df3ca556d_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_91356737_7a6VIq8NMH0F3elMluzJ1BAW28hFRcQO_jpg.rf.4a4dd5801c6984a623e6bb2df3ca556d_v2": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_91356737_7a6VIq8NMH0F3elMluzJ1BAW28hFRcQO_jpg.rf.4a4dd5801c6984a623e6bb2df3ca556d_v3": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_91356737_7a6VIq8NMH0F3elMluzJ1BAW28hFRcQO_jpg.rf.4a4dd5801c6984a623e6bb2df3ca556d_v4": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "240_F_91356770_4mfk7Qi4ACsgi8vzkjpHC9uCxV2UMwrG_jpg.rf.66d7444dd20e8e2d9e889820bc4b5442.jpg",
+  "record": {
+   "actions": {
+    "240_F_91356770_4mfk7Qi4ACsgi8vzkjpHC9uCxV2UMwrG_jpg.rf.66d7444dd20e8e2d9e889820bc4b5442_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "240_F_91356770_4mfk7Qi4ACsgi8vzkjpHC9uCxV2UMwrG_jpg.rf.66d7444dd20e8e2d9e889820bc4b5442_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "240_F_91356770_4mfk7Qi4ACsgi8vzkjpHC9uCxV2UMwrG_jpg.rf.66d7444dd20e8e2d9e889820bc4b5442_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "240_F_91356770_4mfk7Qi4ACsgi8vzkjpHC9uCxV2UMwrG_jpg.rf.66d7444dd20e8e2d9e889820bc4b5442_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_91356770_4mfk7Qi4ACsgi8vzkjpHC9uCxV2UMwrG_jpg.rf.66d7444dd20e8e2d9e889820bc4b5442_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_91356770_4mfk7Qi4ACsgi8vzkjpHC9uCxV2UMwrG_jpg.rf.66d7444dd20e8e2d9e889820bc4b5442_v2": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "240_F_91652211_CwtqBHVIfaEtAP0cxaeH6XlkSv7iG7jJ_jpg.rf.96077713fda025af7d3b6a5523066562.jpg",
+  "record": {
+   "actions": {
+    "240_F_91652211_CwtqBHVIfaEtAP0cxaeH6XlkSv7iG7jJ_jpg.rf.96077713fda025af7d3b6a5523066562_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "240_F_91652211_CwtqBHVIfaEtAP0cxaeH6XlkSv7iG7jJ_jpg.rf.96077713fda025af7d3b6a5523066562_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "240_F_91652211_CwtqBHVIfaEtAP0cxaeH6XlkSv7iG7jJ_jpg.rf.96077713fda025af7d3b6a5523066562_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "240_F_91652211_CwtqBHVIfaEtAP0cxaeH6XlkSv7iG7jJ_jpg.rf.96077713fda025af7d3b6a5523066562_y3": {
+     "keep": true,
+     "category": "stain"
+    },
+    "240_F_91652211_CwtqBHVIfaEtAP0cxaeH6XlkSv7iG7jJ_jpg.rf.96077713fda025af7d3b6a5523066562_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "240_F_91652211_CwtqBHVIfaEtAP0cxaeH6XlkSv7iG7jJ_jpg.rf.96077713fda025af7d3b6a5523066562_y5": {
+     "keep": true,
+     "category": "stain"
+    },
+    "240_F_91652211_CwtqBHVIfaEtAP0cxaeH6XlkSv7iG7jJ_jpg.rf.96077713fda025af7d3b6a5523066562_y6": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6.jpg",
+  "record": {
+   "actions": {
+    "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6_v2": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6_v3": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6_v4": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6_v5": {
+     "keep": false,
+     "category": "stain"
+    },
+    "240_F_93211365_q6frnqxTiY8CosHc64CrUq9VgRjisIwY_jpg.rf.aa58bbf623338af38d2748e0e00f37a6_v6": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "240_F_94394086_vRyDw6CVAF0CWyhXqqz3iRH22bBNT8LF_jpg.rf.63ccc133e048c7d528d482d96ae3413e.jpg",
+  "record": {
+   "actions": {
+    "240_F_94394086_vRyDw6CVAF0CWyhXqqz3iRH22bBNT8LF_jpg.rf.63ccc133e048c7d528d482d96ae3413e_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "240_F_96143130_7M3S6owUK3DS3h5Wgk6OHCrGa9NsYRAV_jpg.rf.bc189879ab50143d22950964470ca59b.jpg",
+  "record": {
+   "actions": {
+    "240_F_96143130_7M3S6owUK3DS3h5Wgk6OHCrGa9NsYRAV_jpg.rf.bc189879ab50143d22950964470ca59b_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "240_F_96143130_7M3S6owUK3DS3h5Wgk6OHCrGa9NsYRAV_jpg.rf.bc189879ab50143d22950964470ca59b_y1": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "240_F_96475050_LC7qHjGAFlhurUsaV8sjXCIywXnQnSuy_jpg.rf.7bc6b79b499731c1611b8e6611caa840.jpg",
+  "record": {
+   "actions": {
+    "240_F_96475050_LC7qHjGAFlhurUsaV8sjXCIywXnQnSuy_jpg.rf.7bc6b79b499731c1611b8e6611caa840_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "240_F_98517236_tqnRnhtBH3B3rGOkqpz4ED4PUOGcakUK_jpg.rf.bd1a6131f00e0e8599c5566b84069539.jpg",
+  "record": {
+   "actions": {
+    "240_F_98517236_tqnRnhtBH3B3rGOkqpz4ED4PUOGcakUK_jpg.rf.bd1a6131f00e0e8599c5566b84069539_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "240_F_98517236_tqnRnhtBH3B3rGOkqpz4ED4PUOGcakUK_jpg.rf.bd1a6131f00e0e8599c5566b84069539_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "240_F_98517236_tqnRnhtBH3B3rGOkqpz4ED4PUOGcakUK_jpg.rf.bd1a6131f00e0e8599c5566b84069539_y2": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "background-woolen-fabric-hole-gray-153929830_jpg.rf.ff8739048f5f973b0d2b631960e9fe0a.jpg",
+  "record": {
+   "actions": {
+    "background-woolen-fabric-hole-gray-153929830_jpg.rf.ff8739048f5f973b0d2b631960e9fe0a_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "beige-fabric-button-hole-vintage-jacket-detail-textile-close-up-background-180822904_jpg.rf.5a105c62caaf9ef4b023b23ff28ccd31.jpg",
+  "record": {
+   "actions": {
+    "beige-fabric-button-hole-vintage-jacket-detail-textile-close-up-background-180822904_jpg.rf.5a105c62caaf9ef4b023b23ff28ccd31_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "blue-jeans-holes-white-threads-textured-contrasting-hole-background-thread-195311691_jpg.rf.e74925b19a7c55b97d181a11215a0f3b.jpg",
+  "record": {
+   "actions": {
+    "blue-jeans-holes-white-threads-textured-contrasting-hole-background-thread-195311691_jpg.rf.e74925b19a7c55b97d181a11215a0f3b_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0.jpg",
+  "record": {
+   "actions": {
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y2": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y3": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y4": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y5": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y6": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y7": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y8": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y9": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y10": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y11": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y12": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y13": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_y14": {
+     "keep": true,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v1": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v2": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v3": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v4": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v5": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v6": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v7": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v8": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v9": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v10": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v11": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v12": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v13": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v14": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v15": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v16": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v17": {
+     "keep": false,
+     "category": "hole"
+    },
+    "blue-torn-fabric-texture-background-useful-as-83241048_jpg.rf.50e8de2ce248082ab27f5e05852749d0_v18": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "close-up-small-tear-pink-knitted-fabric-closeup-small-tear-pink-knitted-fabric-113589063_jpg.rf.8e78d5000ff6c4453b7940313aeab47a.jpg",
+  "record": {
+   "actions": {
+    "close-up-small-tear-pink-knitted-fabric-closeup-small-tear-pink-knitted-fabric-113589063_jpg.rf.8e78d5000ff6c4453b7940313aeab47a_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      268,
+      285,
+      479,
+      466
+     ],
+     "category": "hole"
+    }
+   ]
+  }
+ },
+ {
+  "image": "close-up-view-hole-textile-cloth-use-as-background-hole-textile-cloth-use-as-background-230405238_jpg.rf.c546878f3949182f43657ba36747377f.jpg",
+  "record": {
+   "actions": {
+    "close-up-view-hole-textile-cloth-use-as-background-hole-textile-cloth-use-as-background-230405238_jpg.rf.c546878f3949182f43657ba36747377f_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "cloth-hole-old-small-48322188_jpg.rf.452221c72a070e33b218f7b22db58271.jpg",
+  "record": {
+   "actions": {
+    "cloth-hole-old-small-48322188_jpg.rf.452221c72a070e33b218f7b22db58271_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "cotton-fabric-hole-cigarette-cotton-fabric-hole-cigarette-238953848_jpg.rf.938c90a36391ae480ee56b4b4fa44e79.jpg",
+  "record": {
+   "actions": {
+    "cotton-fabric-hole-cigarette-cotton-fabric-hole-cigarette-238953848_jpg.rf.938c90a36391ae480ee56b4b4fa44e79_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "cotton-fabric-texture-slots-holes-background-abstract-textures-75238999_jpg.rf.c619e8563ac4eb18f7583a18b43e721a.jpg",
+  "record": {
+   "actions": {
+    "cotton-fabric-texture-slots-holes-background-abstract-textures-75238999_jpg.rf.c619e8563ac4eb18f7583a18b43e721a_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "cotton-fabric-texture-slots-holes-background-abstract-textures-75238999_jpg.rf.c619e8563ac4eb18f7583a18b43e721a_v1": {
+     "keep": false,
+     "category": "hole"
+    },
+    "cotton-fabric-texture-slots-holes-background-abstract-textures-75238999_jpg.rf.c619e8563ac4eb18f7583a18b43e721a_v2": {
+     "keep": false,
+     "category": "hole"
+    },
+    "cotton-fabric-texture-slots-holes-background-abstract-textures-75238999_jpg.rf.c619e8563ac4eb18f7583a18b43e721a_v3": {
+     "keep": false,
+     "category": "hole"
+    },
+    "cotton-fabric-texture-slots-holes-background-abstract-textures-75238999_jpg.rf.c619e8563ac4eb18f7583a18b43e721a_v4": {
+     "keep": false,
+     "category": "hole"
+    },
+    "cotton-fabric-texture-slots-holes-background-abstract-textures-75238999_jpg.rf.c619e8563ac4eb18f7583a18b43e721a_v5": {
+     "keep": false,
+     "category": "hole"
+    },
+    "cotton-fabric-texture-slots-holes-background-abstract-textures-75238999_jpg.rf.c619e8563ac4eb18f7583a18b43e721a_v6": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      335,
+      108,
+      447,
+      436
+     ],
+     "category": "hole"
+    }
+   ]
+  }
+ },
+ {
+  "image": "download2_jpg.rf.d16d18476829807635460abda9aae9ce.jpg",
+  "record": {
+   "actions": {
+    "download2_jpg.rf.d16d18476829807635460abda9aae9ce_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "download2_jpg.rf.d16d18476829807635460abda9aae9ce_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "download2_jpg.rf.d16d18476829807635460abda9aae9ce_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "download_jpg.rf.46d0503dc1bb8dabc9312d63b1e5a30c.jpg",
+  "record": {
+   "actions": {
+    "download_jpg.rf.46d0503dc1bb8dabc9312d63b1e5a30c_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "fabric-pattern-cover-rooftop-round-hole-black-white-abstract-background-sunshade-architecture-structural-177046730_jpg.rf.b0342f2419f7c6219da820894d329a66.jpg",
+  "record": {
+   "actions": {
+    "fabric-pattern-cover-rooftop-round-hole-black-white-abstract-background-sunshade-architecture-structural-177046730_jpg.rf.b0342f2419f7c6219da820894d329a66_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb.jpg",
+  "record": {
+   "actions": {
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y3": {
+     "keep": true,
+     "category": "hole"
+    },
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y4": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y5": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y6": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y7": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y8": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-holes-background-textile-material-macro-close-up-105702223_jpg.rf.589dbf50f79a54fe158efc3a150993eb_y9": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "fabric-texture-torn-cloth-holes-white-161541574-1-_jpg.rf.dc027b53a9de396ec3bb676dec700eec.jpg",
+  "record": {
+   "actions": {
+    "fabric-texture-torn-cloth-holes-white-161541574-1-_jpg.rf.dc027b53a9de396ec3bb676dec700eec_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "fabric-texture-torn-cloth-holes-white-161541574-1-_jpg.rf.dc027b53a9de396ec3bb676dec700eec_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-torn-cloth-holes-white-161541574-1-_jpg.rf.dc027b53a9de396ec3bb676dec700eec_y2": {
+     "keep": true,
+     "category": "hole"
+    },
+    "fabric-texture-torn-cloth-holes-white-161541574-1-_jpg.rf.dc027b53a9de396ec3bb676dec700eec_y3": {
+     "keep": true,
+     "category": "hole"
+    },
+    "fabric-texture-torn-cloth-holes-white-161541574-1-_jpg.rf.dc027b53a9de396ec3bb676dec700eec_y4": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-torn-cloth-holes-white-161541574-1-_jpg.rf.dc027b53a9de396ec3bb676dec700eec_y5": {
+     "keep": true,
+     "category": "stain"
+    },
+    "fabric-texture-torn-cloth-holes-white-161541574-1-_jpg.rf.dc027b53a9de396ec3bb676dec700eec_y6": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "fabric-texture-torn-cloth-two-holes-white-195377835_jpg.rf.fb58915b03534926bf10525c90144716.jpg",
+  "record": {
+   "actions": {
+    "fabric-texture-torn-cloth-two-holes-white-195377835_jpg.rf.fb58915b03534926bf10525c90144716_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "fabric-texture-torn-cloth-two-holes-white-195377835_jpg.rf.fb58915b03534926bf10525c90144716_y1": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "fashion-jeans-details-hole-free-space-denim-background-studio-shot-fashion-jeans-details-hole-free-space-denim-215887011_jpg.rf.15a2c5de9c03d8eadc1146517b0fd0ff.jpg",
+  "record": {
+   "actions": {
+    "fashion-jeans-details-hole-free-space-denim-background-studio-shot-fashion-jeans-details-hole-free-space-denim-215887011_jpg.rf.15a2c5de9c03d8eadc1146517b0fd0ff_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "fashion-jeans-details-hole-free-space-denim-background-studio-shot-fashion-jeans-details-hole-free-space-denim-215887011_jpg.rf.15a2c5de9c03d8eadc1146517b0fd0ff_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "fashion-jeans-details-hole-free-space-denim-background-studio-shot-fashion-jeans-details-hole-free-space-denim-215887011_jpg.rf.15a2c5de9c03d8eadc1146517b0fd0ff_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "fashion-jeans-details-hole-free-space-denim-background-studio-shot-fashion-jeans-details-hole-free-space-jeans-215886584_jpg.rf.2fc94947853db2401c0903b6d8e3b874.jpg",
+  "record": {
+   "actions": {
+    "fashion-jeans-details-hole-free-space-denim-background-studio-shot-fashion-jeans-details-hole-free-space-jeans-215886584_jpg.rf.2fc94947853db2401c0903b6d8e3b874_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "gray-white-fabric-texture-torn-clothes-hole-fabric-texture-torn-clothes-hole-229627427_jpg.rf.d95a9d8c6434bd3ebb25cfd1be3222a0.jpg",
+  "record": {
+   "actions": {
+    "gray-white-fabric-texture-torn-clothes-hole-fabric-texture-torn-clothes-hole-229627427_jpg.rf.d95a9d8c6434bd3ebb25cfd1be3222a0_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "green-abstract-background-balaclava-mask-texture-37239781_jpg.rf.07287904acb7b37107836acc087694a1.jpg",
+  "record": {
+   "actions": {
+    "green-abstract-background-balaclava-mask-texture-37239781_jpg.rf.07287904acb7b37107836acc087694a1_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "green-abstract-background-balaclava-mask-texture-37239781_jpg.rf.07287904acb7b37107836acc087694a1_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "green-fabric-texture-torn-old-clothes-holes-230579234_jpg.rf.69019a3cf9de2869e9829331e8ef5fe4.jpg",
+  "record": {
+   "actions": {
+    "green-fabric-texture-torn-old-clothes-holes-230579234_jpg.rf.69019a3cf9de2869e9829331e8ef5fe4_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "green-fabric-texture-torn-old-clothes-holes-230579234_jpg.rf.69019a3cf9de2869e9829331e8ef5fe4_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "green-fabric-texture-torn-old-clothes-holes-230579234_jpg.rf.69019a3cf9de2869e9829331e8ef5fe4_v1": {
+     "keep": false,
+     "category": "hole"
+    },
+    "green-fabric-texture-torn-old-clothes-holes-230579234_jpg.rf.69019a3cf9de2869e9829331e8ef5fe4_v2": {
+     "keep": false,
+     "category": "hole"
+    },
+    "green-fabric-texture-torn-old-clothes-holes-230579234_jpg.rf.69019a3cf9de2869e9829331e8ef5fe4_v3": {
+     "keep": false,
+     "category": "hole"
+    },
+    "green-fabric-texture-torn-old-clothes-holes-230579234_jpg.rf.69019a3cf9de2869e9829331e8ef5fe4_v4": {
+     "keep": false,
+     "category": "hole"
+    },
+    "green-fabric-texture-torn-old-clothes-holes-230579234_jpg.rf.69019a3cf9de2869e9829331e8ef5fe4_v5": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "green-square-hole-punch-middle-fabri-fabric-contained-sterile-suture-equipment-167495242_jpg.rf.2643f199488d062e43244ac2232c42f1.jpg",
+  "record": {
+   "actions": {
+    "green-square-hole-punch-middle-fabri-fabric-contained-sterile-suture-equipment-167495242_jpg.rf.2643f199488d062e43244ac2232c42f1_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "grey-fabric-surface-background-mended-hole-useful-as-82143281_jpg.rf.0fc285a4dfafa7aa3f0caa82a5c91ce5.jpg",
+  "record": {
+   "actions": {
+    "grey-fabric-surface-background-mended-hole-useful-as-82143281_jpg.rf.0fc285a4dfafa7aa3f0caa82a5c91ce5_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "grey-fabric-surface-background-mended-hole-useful-as-82143281_jpg.rf.0fc285a4dfafa7aa3f0caa82a5c91ce5_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "grey-fabric-surface-background-mended-hole-useful-as-82143281_jpg.rf.0fc285a4dfafa7aa3f0caa82a5c91ce5_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "grunge-damaged-cloth-background-gray-white-fabric-holes-crumpled-torn-grunge-damaged-cloth-background-gray-white-209403871_jpg.rf.fa968dcee2b6f7ee62cb355ebff3a045.jpg",
+  "record": {
+   "actions": {
+    "grunge-damaged-cloth-background-gray-white-fabric-holes-crumpled-torn-grunge-damaged-cloth-background-gray-white-209403871_jpg.rf.fa968dcee2b6f7ee62cb355ebff3a045_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "grunge-damaged-cloth-background-gray-white-fabric-holes-crumpled-torn-grunge-damaged-cloth-background-gray-white-209403871_jpg.rf.fa968dcee2b6f7ee62cb355ebff3a045_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "grunge-damaged-cloth-background-gray-white-fabric-holes-crumpled-torn-grunge-damaged-cloth-background-gray-white-209403871_jpg.rf.fa968dcee2b6f7ee62cb355ebff3a045_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3.jpg",
+  "record": {
+   "actions": {
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_y4": {
+     "keep": true,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_y5": {
+     "keep": true,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_y6": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_y7": {
+     "keep": true,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_v1": {
+     "keep": false,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_v2": {
+     "keep": false,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_v3": {
+     "keep": false,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_v4": {
+     "keep": false,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_v5": {
+     "keep": false,
+     "category": "hole"
+    },
+    "hand-made-double-textile-background-white-fabric-blue-denim-hand-made-double-textile-background-white-fabric-113071619_jpg.rf.f05754b0028b097ba5522c921338cef3_v6": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hole-blue-jeans-26146352_jpg.rf.1a4875152400faa96b82247adbf8bd36.jpg",
+  "record": {
+   "actions": {
+    "hole-blue-jeans-26146352_jpg.rf.1a4875152400faa96b82247adbf8bd36_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hole-denim-jeans-frayed-threads-close-up-blue-texture-old-torn-showing-fragment-146802787_jpg.rf.bcc0e541d0dd812f6d55812803f3d2d5.jpg",
+  "record": {
+   "actions": {
+    "hole-denim-jeans-frayed-threads-close-up-blue-texture-old-torn-showing-fragment-146802787_jpg.rf.bcc0e541d0dd812f6d55812803f3d2d5_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hole-fabric_469558-31953_jpg.rf.d869d78f12abe3ed17c88f4e0269589d.jpg",
+  "record": {
+   "actions": {
+    "hole-fabric_469558-31953_jpg.rf.d869d78f12abe3ed17c88f4e0269589d_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "hole-fabric_469558-31953_jpg.rf.d869d78f12abe3ed17c88f4e0269589d_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "hole-fabric_469558-31953_jpg.rf.d869d78f12abe3ed17c88f4e0269589d_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hole-frayed-threads-old-torn-black-jeans-closeup-showing-fabric-texture-fragment-close-up-209190444_jpg.rf.5640e1d3c17413af27c89e03ea3ff345.jpg",
+  "record": {
+   "actions": {
+    "hole-frayed-threads-old-torn-black-jeans-closeup-showing-fabric-texture-fragment-close-up-209190444_jpg.rf.5640e1d3c17413af27c89e03ea3ff345_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "hole-frayed-threads-old-torn-black-jeans-closeup-showing-fabric-texture-fragment-close-up-209190444_jpg.rf.5640e1d3c17413af27c89e03ea3ff345_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hole-frayed-threads-old-torn-blue-jeans-texture-denim-showing-fragment-close-up-146802373_jpg.rf.18bb1830c35fb9b7a7c1335f4d965cbe.jpg",
+  "record": {
+   "actions": {
+    "hole-frayed-threads-old-torn-blue-jeans-texture-denim-showing-fragment-close-up-146802373_jpg.rf.18bb1830c35fb9b7a7c1335f4d965cbe_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hole-jeans-25475802_jpg.rf.c0ddbf230ca5ddb58f5902de94dece3f.jpg",
+  "record": {
+   "actions": {
+    "hole-jeans-25475802_jpg.rf.c0ddbf230ca5ddb58f5902de94dece3f_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hole-plastic-shard-glass-breach-wall-broken-window-241734985_jpg.rf.9d85826e361512600f06c51a05c7b751.jpg",
+  "record": {
+   "actions": {
+    "hole-plastic-shard-glass-breach-wall-broken-window-241734985_jpg.rf.9d85826e361512600f06c51a05c7b751_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hole-threads-denim-jeans-ripped-destroyed-torn-blue-background-close-up-jean-texture-221699159_jpg.rf.11bd32d3bb6b414b5b69c9d993620de9.jpg",
+  "record": {
+   "actions": {
+    "hole-threads-denim-jeans-ripped-destroyed-torn-blue-background-close-up-jean-texture-221699159_jpg.rf.11bd32d3bb6b414b5b69c9d993620de9_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "hole-trousers-worker-skin-leg-hair-59920516_jpg.rf.4736443bd62cbf68f1f03d06e02166b6.jpg",
+  "record": {
+   "actions": {
+    "hole-trousers-worker-skin-leg-hair-59920516_jpg.rf.4736443bd62cbf68f1f03d06e02166b6_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "hole-trousers-worker-skin-leg-hair-59920516_jpg.rf.4736443bd62cbf68f1f03d06e02166b6_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "hole-trousers-worker-skin-leg-hair-59920516_jpg.rf.4736443bd62cbf68f1f03d06e02166b6_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "hole-trousers-worker-skin-leg-hair-59920516_jpg.rf.4736443bd62cbf68f1f03d06e02166b6_y3": {
+     "keep": true,
+     "category": "stain"
+    },
+    "hole-trousers-worker-skin-leg-hair-59920516_jpg.rf.4736443bd62cbf68f1f03d06e02166b6_y4": {
+     "keep": true,
+     "category": "stain"
+    },
+    "hole-trousers-worker-skin-leg-hair-59920516_jpg.rf.4736443bd62cbf68f1f03d06e02166b6_y5": {
+     "keep": true,
+     "category": "stain"
+    },
+    "hole-trousers-worker-skin-leg-hair-59920516_jpg.rf.4736443bd62cbf68f1f03d06e02166b6_y6": {
+     "keep": true,
+     "category": "stain"
+    },
+    "hole-trousers-worker-skin-leg-hair-59920516_jpg.rf.4736443bd62cbf68f1f03d06e02166b6_y7": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "holes-blue-jeans-frayed-threads-close-up-rubbed-places-texture-old-torn-denim-showing-fragment-209190424_jpg.rf.bb4dbf68e8d7734b9f914981fe7a53b7.jpg",
+  "record": {
+   "actions": {
+    "holes-blue-jeans-frayed-threads-close-up-rubbed-places-texture-old-torn-denim-showing-fragment-209190424_jpg.rf.bb4dbf68e8d7734b9f914981fe7a53b7_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "holes-blue-jeans-frayed-threads-close-up-rubbed-places-texture-old-torn-denim-showing-fragment-209190424_jpg.rf.bb4dbf68e8d7734b9f914981fe7a53b7_y1": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "holes-gray-clothes-thin-t-shirt-fabric-armpit-was-scratched-poor-quality-clothing-clothes-rags-selective-focus-holes-191798131_jpg.rf.321d014f7a9d5b9550c846fbe86446d8.jpg",
+  "record": {
+   "actions": {
+    "holes-gray-clothes-thin-t-shirt-fabric-armpit-was-scratched-poor-quality-clothing-clothes-rags-selective-focus-holes-191798131_jpg.rf.321d014f7a9d5b9550c846fbe86446d8_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "holes-gray-clothes-thin-t-shirt-fabric-armpit-was-scratched-poor-quality-clothing-clothes-rags-selective-focus-holes-191798131_jpg.rf.321d014f7a9d5b9550c846fbe86446d8_v1": {
+     "keep": false,
+     "category": "hole"
+    },
+    "holes-gray-clothes-thin-t-shirt-fabric-armpit-was-scratched-poor-quality-clothing-clothes-rags-selective-focus-holes-191798131_jpg.rf.321d014f7a9d5b9550c846fbe86446d8_v2": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "holes-jeans-new-fashion-95724555_jpg.rf.5fd5305c48fb09a2de4a058c366c5dad.jpg",
+  "record": {
+   "actions": {
+    "holes-jeans-new-fashion-95724555_jpg.rf.5fd5305c48fb09a2de4a058c366c5dad_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "holes-jeans-new-fashion-95724718_jpg.rf.cb75b36b2236049053d66be2d78320e3.jpg",
+  "record": {
+   "actions": {
+    "holes-jeans-new-fashion-95724718_jpg.rf.cb75b36b2236049053d66be2d78320e3_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "holes-moth-ate-wool-texture-brown-head-scar-scarf-112743832_jpg.rf.434e0d03ed1e08c7571c666586a0082b.jpg",
+  "record": {
+   "actions": {
+    "holes-moth-ate-wool-texture-brown-head-scar-scarf-112743832_jpg.rf.434e0d03ed1e08c7571c666586a0082b_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "holes-moth-ate-wool-texture-brown-head-scar-scarf-112743832_jpg.rf.434e0d03ed1e08c7571c666586a0082b_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "holes-moth-ate-wool-texture-brown-head-scar-scarf-112743832_jpg.rf.434e0d03ed1e08c7571c666586a0082b_v1": {
+     "keep": false,
+     "category": "hole"
+    },
+    "holes-moth-ate-wool-texture-brown-head-scar-scarf-112743832_jpg.rf.434e0d03ed1e08c7571c666586a0082b_v2": {
+     "keep": false,
+     "category": "hole"
+    },
+    "holes-moth-ate-wool-texture-brown-head-scar-scarf-112743832_jpg.rf.434e0d03ed1e08c7571c666586a0082b_v3": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      245,
+      251,
+      366,
+      349
+     ],
+     "category": "hole"
+    }
+   ]
+  }
+ },
+ {
+  "image": "IMG_20220621_160556_jpg.rf.5575cd18bf27cc53e64f603d990dd0e9.jpg",
+  "record": {
+   "actions": {
+    "IMG_20220621_160556_jpg.rf.5575cd18bf27cc53e64f603d990dd0e9_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_20220621_160556_jpg.rf.5575cd18bf27cc53e64f603d990dd0e9_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_20220621_160556_jpg.rf.5575cd18bf27cc53e64f603d990dd0e9_y2": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_20220621_160556_jpg.rf.5575cd18bf27cc53e64f603d990dd0e9_y3": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_20220621_160556_jpg.rf.5575cd18bf27cc53e64f603d990dd0e9_y4": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_20220621_160556_jpg.rf.5575cd18bf27cc53e64f603d990dd0e9_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "IMG_20220621_160556_jpg.rf.5575cd18bf27cc53e64f603d990dd0e9_v1": {
+     "keep": false,
+     "category": "hole"
+    },
+    "IMG_20220621_160556_jpg.rf.5575cd18bf27cc53e64f603d990dd0e9_v2": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_20220621_161633_jpg.rf.f01fccb16c8078fe8f9ecb506ae49b03.jpg",
+  "record": {
+   "actions": {
+    "IMG_20220621_161633_jpg.rf.f01fccb16c8078fe8f9ecb506ae49b03_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "IMG_20220621_161633_jpg.rf.f01fccb16c8078fe8f9ecb506ae49b03_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "IMG_20220621_161633_jpg.rf.f01fccb16c8078fe8f9ecb506ae49b03_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "IMG_20220621_161633_jpg.rf.f01fccb16c8078fe8f9ecb506ae49b03_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "IMG_20220621_161633_jpg.rf.f01fccb16c8078fe8f9ecb506ae49b03_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "IMG_20220621_161633_jpg.rf.f01fccb16c8078fe8f9ecb506ae49b03_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_20220806_151240_jpg.rf.f035bb40a634379728966ca430f84b6f.jpg",
+  "record": {
+   "actions": {
+    "IMG_20220806_151240_jpg.rf.f035bb40a634379728966ca430f84b6f_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "IMG_20220806_151240_jpg.rf.f035bb40a634379728966ca430f84b6f_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_20220806_151240_jpg.rf.f035bb40a634379728966ca430f84b6f_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_20220806_151248_jpg.rf.614d983ef9012ff6786d2a6da1ac9356.jpg",
+  "record": {
+   "actions": {
+    "IMG_20220806_151248_jpg.rf.614d983ef9012ff6786d2a6da1ac9356_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      55,
+      4,
+      170,
+      137
+     ],
+     "category": "hole"
+    }
+   ]
+  }
+ },
+ {
+  "image": "IMG_20220806_152421_jpg.rf.73e5ffb5e1e8b05d7cc54c6fb6f09213.jpg",
+  "record": {
+   "actions": {
+    "IMG_20220806_152421_jpg.rf.73e5ffb5e1e8b05d7cc54c6fb6f09213_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_20220806_152421_jpg.rf.73e5ffb5e1e8b05d7cc54c6fb6f09213_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_20220806_152935_jpg.rf.92b71d6604f4149785045e9f3f08fbd0.jpg",
+  "record": {
+   "actions": {
+    "IMG_20220806_152935_jpg.rf.92b71d6604f4149785045e9f3f08fbd0_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_20220806_152935_jpg.rf.92b71d6604f4149785045e9f3f08fbd0_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_7073_jpg.rf.179bfbb67fb92bfd343981310235206c.jpg",
+  "record": {
+   "actions": {
+    "IMG_7073_jpg.rf.179bfbb67fb92bfd343981310235206c_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_7073_jpg.rf.179bfbb67fb92bfd343981310235206c_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "IMG_7073_jpg.rf.179bfbb67fb92bfd343981310235206c_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "IMG_7073_jpg.rf.179bfbb67fb92bfd343981310235206c_y3": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_7078_jpg.rf.e12d75586ce7489ed70c11efe4a277ec.jpg",
+  "record": {
+   "actions": {
+    "IMG_7078_jpg.rf.e12d75586ce7489ed70c11efe4a277ec_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_7094_jpg.rf.0ee9edefc1537331d0119e614b5a3c2e.jpg",
+  "record": {
+   "actions": {
+    "IMG_7094_jpg.rf.0ee9edefc1537331d0119e614b5a3c2e_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_7110_jpg.rf.ec1342775a07e4c6e33a29d16813e43c.jpg",
+  "record": {
+   "actions": {
+    "IMG_7110_jpg.rf.ec1342775a07e4c6e33a29d16813e43c_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_7110_jpg.rf.ec1342775a07e4c6e33a29d16813e43c_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_7110_jpg.rf.ec1342775a07e4c6e33a29d16813e43c_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_7115_jpg.rf.2a722d0b30aa19a69574ea5b369407ea.jpg",
+  "record": {
+   "actions": {
+    "IMG_7115_jpg.rf.2a722d0b30aa19a69574ea5b369407ea_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "IMG_7115_jpg.rf.2a722d0b30aa19a69574ea5b369407ea_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "IMG_7116_jpg.rf.7d4d7d0387a31e5d4457879c25dc30c9.jpg",
+  "record": {
+   "actions": {
+    "IMG_7116_jpg.rf.7d4d7d0387a31e5d4457879c25dc30c9_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "IMG_7116_jpg.rf.7d4d7d0387a31e5d4457879c25dc30c9_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "istockphoto-114237384-612x612_jpg.rf.caf5882adab481de1d301d1168d9e27b.jpg",
+  "record": {
+   "actions": {
+    "istockphoto-114237384-612x612_jpg.rf.caf5882adab481de1d301d1168d9e27b_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "istockphoto-1163701124-612x612_jpg.rf.5f437cc22bb656f5728e078446bf8855.jpg",
+  "record": {
+   "actions": {
+    "istockphoto-1163701124-612x612_jpg.rf.5f437cc22bb656f5728e078446bf8855_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "istockphoto-1163701124-612x612_jpg.rf.5f437cc22bb656f5728e078446bf8855_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "istockphoto-1212931582-612x612_jpg.rf.f670f869c94a7f71dc7091fe10116bcf.jpg",
+  "record": {
+   "actions": {
+    "istockphoto-1212931582-612x612_jpg.rf.f670f869c94a7f71dc7091fe10116bcf_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "istockphoto-1415718292-612x612_jpg.rf.74caa62f3d294d1e8e3eb52aefe11f04.jpg",
+  "record": {
+   "actions": {
+    "istockphoto-1415718292-612x612_jpg.rf.74caa62f3d294d1e8e3eb52aefe11f04_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "istockphoto-1415718292-612x612_jpg.rf.74caa62f3d294d1e8e3eb52aefe11f04_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "istockphoto-1415718292-612x612_jpg.rf.74caa62f3d294d1e8e3eb52aefe11f04_y2": {
+     "keep": true,
+     "category": "hole"
+    },
+    "istockphoto-1415718292-612x612_jpg.rf.74caa62f3d294d1e8e3eb52aefe11f04_y3": {
+     "keep": true,
+     "category": "hole"
+    },
+    "istockphoto-1415718292-612x612_jpg.rf.74caa62f3d294d1e8e3eb52aefe11f04_y4": {
+     "keep": true,
+     "category": "hole"
+    },
+    "istockphoto-1415718292-612x612_jpg.rf.74caa62f3d294d1e8e3eb52aefe11f04_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "istockphoto-1415718292-612x612_jpg.rf.74caa62f3d294d1e8e3eb52aefe11f04_v1": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "jean-texture-hole-threads-blue-jean-texture-hole-threads-142483381_jpg.rf.359c9d83385d1b36b197a224beecfda2.jpg",
+  "record": {
+   "actions": {
+    "jean-texture-hole-threads-blue-jean-texture-hole-threads-142483381_jpg.rf.359c9d83385d1b36b197a224beecfda2_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "jean-texture-hole-threads-blue-jean-texture-hole-threads-142483381_jpg.rf.359c9d83385d1b36b197a224beecfda2_y1": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "jeans-holes-place-text-30016302_jpg.rf.89c8c1daef81258756335401c397caeb.jpg",
+  "record": {
+   "actions": {
+    "jeans-holes-place-text-30016302_jpg.rf.89c8c1daef81258756335401c397caeb_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "jeans-texutre-hole-closeup-57985351_jpg.rf.d0a68103d87e6a80c8072b80a49aa51c.jpg",
+  "record": {
+   "actions": {
+    "jeans-texutre-hole-closeup-57985351_jpg.rf.d0a68103d87e6a80c8072b80a49aa51c_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "jeans-texutre-hole-closeup-57985351_jpg.rf.d0a68103d87e6a80c8072b80a49aa51c_y1": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "jeans-torn-denim-texture_44272-5900_jpg.rf.c8b10de24048f99f2b6c2e7fc3b110e5.jpg",
+  "record": {
+   "actions": {
+    "jeans-torn-denim-texture_44272-5900_jpg.rf.c8b10de24048f99f2b6c2e7fc3b110e5_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "leather-texture-25314532_jpg.rf.f2efd0c6e67405128cd0dd987865be8e.jpg",
+  "record": {
+   "actions": {
+    "leather-texture-25314532_jpg.rf.f2efd0c6e67405128cd0dd987865be8e_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "leather-texture-25314532_jpg.rf.f2efd0c6e67405128cd0dd987865be8e_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "leather-texture-25314532_jpg.rf.f2efd0c6e67405128cd0dd987865be8e_y2": {
+     "keep": true,
+     "category": "hole"
+    },
+    "leather-texture-25314532_jpg.rf.f2efd0c6e67405128cd0dd987865be8e_y3": {
+     "keep": true,
+     "category": "hole"
+    },
+    "leather-texture-25314532_jpg.rf.f2efd0c6e67405128cd0dd987865be8e_y4": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "missing-jeans-missing-jeans-151194206_jpg.rf.9838ec3c7ef5210b02157f0a2b1c382b.jpg",
+  "record": {
+   "actions": {
+    "missing-jeans-missing-jeans-151194206_jpg.rf.9838ec3c7ef5210b02157f0a2b1c382b_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "old-jeans-holes-old-jeans-holes-textile-background-128109829_jpg.rf.2721f5c2e82b80a97df956d6bce32433.jpg",
+  "record": {
+   "actions": {
+    "old-jeans-holes-old-jeans-holes-textile-background-128109829_jpg.rf.2721f5c2e82b80a97df956d6bce32433_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "old-jeans-holes-old-jeans-holes-textile-background-128109829_jpg.rf.2721f5c2e82b80a97df956d6bce32433_y1": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "one-big-hole-white-cotton-wool-yellow-fabric-one-big-hole-white-cotton-wool-yellow-fabric-old-jacket-238643142_jpg.rf.0ecd50637f3727e5bc5a9fe96b6bfbaa.jpg",
+  "record": {
+   "actions": {
+    "one-big-hole-white-cotton-wool-yellow-fabric-one-big-hole-white-cotton-wool-yellow-fabric-old-jacket-238643142_jpg.rf.0ecd50637f3727e5bc5a9fe96b6bfbaa_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "part-denim-jacket-ragged-holes-back-black-background-wallpaper-226716688_jpg.rf.4ca4b81a3990d7ee7d6ce9254c1cf39c.jpg",
+  "record": {
+   "actions": {
+    "part-denim-jacket-ragged-holes-back-black-background-wallpaper-226716688_jpg.rf.4ca4b81a3990d7ee7d6ce9254c1cf39c_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "part-denim-jacket-ragged-holes-back-black-background-wallpaper-226716688_jpg.rf.4ca4b81a3990d7ee7d6ce9254c1cf39c_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "part-old-blanket-made-dirty-blue-cloth-torn-hole-part-old-blanket-made-dirty-blue-cloth-torn-hole-237610171_jpg.rf.2ff43804cab295b840eead76bac20f40.jpg",
+  "record": {
+   "actions": {
+    "part-old-blanket-made-dirty-blue-cloth-torn-hole-part-old-blanket-made-dirty-blue-cloth-torn-hole-237610171_jpg.rf.2ff43804cab295b840eead76bac20f40_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b.jpg",
+  "record": {
+   "actions": {
+    "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b_v1": {
+     "keep": false,
+     "category": "hole"
+    },
+    "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b_v2": {
+     "keep": false,
+     "category": "hole"
+    },
+    "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b_v3": {
+     "keep": false,
+     "category": "hole"
+    },
+    "part-old-upholstery-wall-torn-brown-fabric-holes-white-wadding-249904496_jpg.rf.e0513f2f1d7c4bb37a766d0f586be18b_v4": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "piece-tattered-clothing-big-gray-hole-piece-tattered-clothing-big-gray-hole-matter-205016574_jpg.rf.2e16a02468b0be0da29cab28f676cc06.jpg",
+  "record": {
+   "actions": {
+    "piece-tattered-clothing-big-gray-hole-piece-tattered-clothing-big-gray-hole-matter-205016574_jpg.rf.2e16a02468b0be0da29cab28f676cc06_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "piece-tattered-clothing-big-white-hole-blue-matter-piece-tattered-clothing-big-white-hole-matter-148368969_jpg.rf.f5a6c2b374f7bf11c5d41089b37a85c3.jpg",
+  "record": {
+   "actions": {
+    "piece-tattered-clothing-big-white-hole-blue-matter-piece-tattered-clothing-big-white-hole-matter-148368969_jpg.rf.f5a6c2b374f7bf11c5d41089b37a85c3_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      104,
+      190,
+      603,
+      456
+     ],
+     "category": "hole"
+    }
+   ]
+  }
+ },
+ {
+  "image": "pink-color-jeans-hole-surface-pink-color-jeans-hole-surface-abstract-background-texture-100173352_jpg.rf.7be576b6402e2a262588fd04474a4bcf.jpg",
+  "record": {
+   "actions": {
+    "pink-color-jeans-hole-surface-pink-color-jeans-hole-surface-abstract-background-texture-100173352_jpg.rf.7be576b6402e2a262588fd04474a4bcf_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad.jpg",
+  "record": {
+   "actions": {
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y0": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y1": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y2": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y3": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y4": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y5": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y6": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y7": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y8": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y9": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y10": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y11": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y12": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y13": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y14": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y15": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y16": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y17": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y18": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y19": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y20": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y21": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y22": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y23": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y24": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y25": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y26": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y27": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y28": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y29": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y30": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y31": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y32": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y33": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y34": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y35": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y36": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y37": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y38": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y39": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y40": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y41": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y42": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y43": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y44": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y45": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y46": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y47": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y48": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y49": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y50": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y51": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y52": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y53": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y54": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y55": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y56": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y57": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y58": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y59": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y60": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y61": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y62": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y63": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y64": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y65": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y66": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y67": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y68": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y69": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y70": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y71": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y72": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y73": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y74": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y75": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y76": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y77": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y78": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y79": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y80": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y81": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y82": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y83": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y84": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y85": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y86": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y87": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y88": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y89": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y90": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y91": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y92": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y93": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y94": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y95": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y96": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y97": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y98": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y99": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y100": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y101": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y102": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y103": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y104": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y105": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y106": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y107": {
+     "keep": false,
+     "category": null
+    },
+    "plastic-surface-multiple-holes-texture-pattern-background-plastic-surface-multiple-holes-texture-pattern-background-171218516_jpg.rf.6c22f9de479b9ad1ff07d91ee50ccaad_y108": {
+     "keep": false,
+     "category": null
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb.jpg",
+  "record": {
+   "actions": {
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y2": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y3": {
+     "keep": true,
+     "category": "hole"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y4": {
+     "keep": true,
+     "category": "hole"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y5": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y6": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y7": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y8": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y9": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y10": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y11": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y12": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y13": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y14": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y15": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y16": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y17": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y18": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y19": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y20": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y21": {
+     "keep": true,
+     "category": "hole"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y22": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y23": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y24": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y25": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y26": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y27": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y28": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y29": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y30": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y31": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y32": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y33": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y34": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y35": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y36": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y37": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y38": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y39": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y40": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y41": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y42": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y43": {
+     "keep": false,
+     "category": "none"
+    },
+    "pngtree-cartoon-hand-drawn-bullet-hole-illustration-png-image_1567502_jpg.rf.8dc13b89b641ab327fc55c9ecdcd45cb_y44": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892.jpg",
+  "record": {
+   "actions": {
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y2": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y3": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y4": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y5": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y6": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y7": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y8": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y9": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y10": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y11": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y12": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y13": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y14": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y15": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y16": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y17": {
+     "keep": true,
+     "category": "stain"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y18": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_y19": {
+     "keep": true,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v1": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v2": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v3": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v4": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v5": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v6": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v7": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v8": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v9": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v10": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v11": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v12": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v13": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v14": {
+     "keep": false,
+     "category": "hole"
+    },
+    "red-torn-fabric-texture-background-useful-as-83339663_jpg.rf.3ce4f1a64e9bad665b30fc59b9883892_v15": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "red-woolen-cloth-background-hole-red-woolen-fabric-texture-hole-143374287_jpg.rf.f243b0b7ccaa4c923564c6cecaf00c96.jpg",
+  "record": {
+   "actions": {
+    "red-woolen-cloth-background-hole-red-woolen-fabric-texture-hole-143374287_jpg.rf.f243b0b7ccaa4c923564c6cecaf00c96_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "ripped-blue-jeans-torn-texture-background-hole-threads-denim-207361412_jpg.rf.d4df72fa2eef4a3e77586fd55e9a6e94.jpg",
+  "record": {
+   "actions": {
+    "ripped-blue-jeans-torn-texture-background-hole-threads-denim-207361412_jpg.rf.d4df72fa2eef4a3e77586fd55e9a6e94_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "ripped-jeans-texture-background-abstract-blue-denim-background-cropped-shot-blue-denim-jeans-cropped-shot-blue-denim-jeans-139541083_jpg.rf.8e43ae2f9d081bc146c8318671731299.jpg",
+  "record": {
+   "actions": {
+    "ripped-jeans-texture-background-abstract-blue-denim-background-cropped-shot-blue-denim-jeans-cropped-shot-blue-denim-jeans-139541083_jpg.rf.8e43ae2f9d081bc146c8318671731299_y0": {
+     "keep": false,
+     "category": null
+    },
+    "ripped-jeans-texture-background-abstract-blue-denim-background-cropped-shot-blue-denim-jeans-cropped-shot-blue-denim-jeans-139541083_jpg.rf.8e43ae2f9d081bc146c8318671731299_y1": {
+     "keep": false,
+     "category": null
+    },
+    "ripped-jeans-texture-background-abstract-blue-denim-background-cropped-shot-blue-denim-jeans-cropped-shot-blue-denim-jeans-139541083_jpg.rf.8e43ae2f9d081bc146c8318671731299_y2": {
+     "keep": false,
+     "category": null
+    },
+    "ripped-jeans-texture-background-abstract-blue-denim-background-cropped-shot-blue-denim-jeans-cropped-shot-blue-denim-jeans-139541083_jpg.rf.8e43ae2f9d081bc146c8318671731299_y3": {
+     "keep": false,
+     "category": null
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_1.jpg",
+  "record": {
+   "actions": {
+    "stain_1_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_1_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_1_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_1_y3": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_1_y4": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_1_y5": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_1_y6": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_101.jpg",
+  "record": {
+   "actions": {
+    "stain_101_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_101_y1": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_102.jpg",
+  "record": {
+   "actions": {
+    "stain_102_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_105.jpg",
+  "record": {
+   "actions": {
+    "stain_105_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_105_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_111.jpg",
+  "record": {
+   "actions": {
+    "stain_111_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_111_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_113.jpg",
+  "record": {
+   "actions": {
+    "stain_113_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_113_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_113_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_113_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_116.jpg",
+  "record": {
+   "actions": {
+    "stain_116_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_116_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_116_y2": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_116_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_116_y4": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_118.jpg",
+  "record": {
+   "actions": {
+    "stain_118_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_118_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_118_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_118_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_118_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_125.jpg",
+  "record": {
+   "actions": {
+    "stain_125_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_127.jpg",
+  "record": {
+   "actions": {
+    "stain_127_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_127_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_127_y2": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_127_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_127_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_128.jpg",
+  "record": {
+   "actions": {
+    "stain_128_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_128_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_128_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_128_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_128_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_128_v2": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_128_v3": {
+     "keep": false,
+     "category": "wrinkle"
+    },
+    "stain_128_v4": {
+     "keep": false,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_134.jpg",
+  "record": {
+   "actions": {
+    "stain_134_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_139.jpg",
+  "record": {
+   "actions": {
+    "stain_139_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_139_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_14.jpg",
+  "record": {
+   "actions": {
+    "stain_14_y0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_14_y1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_14_y2": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      1065,
+      242,
+      1471,
+      753
+     ],
+     "category": "stain"
+    },
+    {
+     "box": [
+      1447,
+      1228,
+      1847,
+      1482
+     ],
+     "category": "stain"
+    },
+    {
+     "box": [
+      1665,
+      11,
+      1968,
+      223
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_144.jpg",
+  "record": {
+   "actions": {
+    "stain_144_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_145.jpg",
+  "record": {
+   "actions": {
+    "stain_145_y0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      993,
+      452,
+      1481,
+      959
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_146.jpg",
+  "record": {
+   "actions": {
+    "stain_146_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_147.jpg",
+  "record": {
+   "actions": {
+    "stain_147_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_147_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_147_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_148.jpg",
+  "record": {
+   "actions": {
+    "stain_148_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_149.jpg",
+  "record": {
+   "actions": {
+    "stain_149_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_152.jpg",
+  "record": {
+   "actions": {
+    "stain_152_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_152_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_152_y2": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_155.jpg",
+  "record": {
+   "actions": {
+    "stain_155_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_155_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_155_y2": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_160.jpg",
+  "record": {
+   "actions": {
+    "stain_160_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_164.jpg",
+  "record": {
+   "actions": {
+    "stain_164_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_164_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_166.jpg",
+  "record": {
+   "actions": {
+    "stain_166_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_167.jpg",
+  "record": {
+   "actions": {
+    "stain_167_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_169.jpg",
+  "record": {
+   "actions": {
+    "stain_169_y0": {
+     "keep": false,
+     "category": "wrinkle"
+    },
+    "stain_169_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      17,
+      920,
+      692,
+      1455
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_171.jpg",
+  "record": {
+   "actions": {
+    "stain_171_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_174.jpg",
+  "record": {
+   "actions": {
+    "stain_174_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_175.jpg",
+  "record": {
+   "actions": {
+    "stain_175_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_18.jpg",
+  "record": {
+   "actions": {
+    "stain_18_y0": {
+     "keep": false,
+     "category": "wrinkle"
+    },
+    "stain_18_y1": {
+     "keep": false,
+     "category": "wrinkle"
+    },
+    "stain_18_y2": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      977,
+      996,
+      1477,
+      1453
+     ],
+     "category": "stain"
+    },
+    {
+     "box": [
+      141,
+      188,
+      587,
+      627
+     ],
+     "category": "stain"
+    },
+    {
+     "box": [
+      1602,
+      376,
+      1976,
+      980
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_183.jpg",
+  "record": {
+   "actions": {
+    "stain_183_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_183_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_183_y2": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_185.jpg",
+  "record": {
+   "actions": {
+    "stain_185_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_185_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_185_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_185_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_186.jpg",
+  "record": {
+   "actions": {
+    "stain_186_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_186_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_186_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_186_y3": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_186_y4": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_188.jpg",
+  "record": {
+   "actions": {
+    "stain_188_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_188_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_188_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_188_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_188_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_188_v2": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_189.jpg",
+  "record": {
+   "actions": {
+    "stain_189_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_189_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_189_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_189_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_189_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_189_y5": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_189_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_189_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_189_v2": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_189_v3": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_190.jpg",
+  "record": {
+   "actions": {
+    "stain_190_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_194.jpg",
+  "record": {
+   "actions": {
+    "stain_194_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_194_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_194_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_194_y3": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_195.jpg",
+  "record": {
+   "actions": {
+    "stain_195_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_195_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_195_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_195_v1": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_196.jpg",
+  "record": {
+   "actions": {
+    "stain_196_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      246,
+      219,
+      1720,
+      944
+     ],
+     "category": "wrinkle"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_198.jpg",
+  "record": {
+   "actions": {
+    "stain_198_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_198_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_198_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_198_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_198_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_20.jpg",
+  "record": {
+   "actions": {
+    "stain_20_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_20_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_20_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_20_y3": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_20_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_210.jpg",
+  "record": {
+   "actions": {
+    "stain_210_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_212.jpg",
+  "record": {
+   "actions": {
+    "stain_212_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_212_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_212_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_212_y3": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_212_y4": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_212_y5": {
+     "keep": false,
+     "category": "wrinkle"
+    },
+    "stain_212_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_214.jpg",
+  "record": {
+   "actions": {
+    "stain_214_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_214_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_214_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_218.jpg",
+  "record": {
+   "actions": {
+    "stain_218_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_218_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_219.jpg",
+  "record": {
+   "actions": {
+    "stain_219_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_219_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_220.jpg",
+  "record": {
+   "actions": {
+    "stain_220_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_220_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_225.jpg",
+  "record": {
+   "actions": {
+    "stain_225_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_225_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_23.jpg",
+  "record": {
+   "actions": {
+    "stain_23_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_23_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_232.jpg",
+  "record": {
+   "actions": {
+    "stain_232_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_235.jpg",
+  "record": {
+   "actions": {
+    "stain_235_y0": {
+     "keep": false,
+     "category": "wrinkle"
+    },
+    "stain_235_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_235_y2": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_236.jpg",
+  "record": {
+   "actions": {
+    "stain_236_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_236_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_237.jpg",
+  "record": {
+   "actions": {
+    "stain_237_y0": {
+     "keep": false,
+     "category": "wrinkle"
+    },
+    "stain_237_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      698,
+      899,
+      1707,
+      1479
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_240.jpg",
+  "record": {
+   "actions": {
+    "stain_240_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_240_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_240_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_241.jpg",
+  "record": {
+   "actions": {
+    "stain_241_y0": {
+     "keep": false,
+     "category": "wrinkle"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      637,
+      13,
+      1229,
+      387
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_244.jpg",
+  "record": {
+   "actions": {
+    "stain_244_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_244_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_244_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_248.jpg",
+  "record": {
+   "actions": {
+    "stain_248_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_248_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_25.jpg",
+  "record": {
+   "actions": {
+    "stain_25_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_25_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_25_v1": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_252.jpg",
+  "record": {
+   "actions": {
+    "stain_252_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_254.jpg",
+  "record": {
+   "actions": {
+    "stain_254_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_254_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      859,
+      285,
+      1879,
+      1410
+     ],
+     "category": "wrinkle"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_255.jpg",
+  "record": {
+   "actions": {
+    "stain_255_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_257.jpg",
+  "record": {
+   "actions": {
+    "stain_257_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_262.jpg",
+  "record": {
+   "actions": {
+    "stain_262_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_262_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_262_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_263.jpg",
+  "record": {
+   "actions": {
+    "stain_263_y0": {
+     "keep": false,
+     "category": "hole"
+    },
+    "stain_263_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_265.jpg",
+  "record": {
+   "actions": {
+    "stain_265_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_267.jpg",
+  "record": {
+   "actions": {
+    "stain_267_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_268.jpg",
+  "record": {
+   "actions": {
+    "stain_268_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_268_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_27.jpg",
+  "record": {
+   "actions": {
+    "stain_27_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_27_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_27_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_27_v1": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_275.jpg",
+  "record": {
+   "actions": {
+    "stain_275_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_275_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_278.jpg",
+  "record": {
+   "actions": {
+    "stain_278_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_278_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_278_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_279.jpg",
+  "record": {
+   "actions": {
+    "stain_279_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      1189,
+      42,
+      1962,
+      973
+     ],
+     "category": "wrinkle"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_28.jpg",
+  "record": {
+   "actions": {
+    "stain_28_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_28_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "stain_28_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_28_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_282.jpg",
+  "record": {
+   "actions": {
+    "stain_282_y0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_282_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      82,
+      282,
+      528,
+      763
+     ],
+     "category": "stain"
+    },
+    {
+     "box": [
+      1130,
+      42,
+      1461,
+      660
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_286.jpg",
+  "record": {
+   "actions": {
+    "stain_286_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_286_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_286_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_286_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_288.jpg",
+  "record": {
+   "actions": {
+    "stain_288_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_288_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_288_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_288_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_291.jpg",
+  "record": {
+   "actions": {
+    "stain_291_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_291_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_291_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_293.jpg",
+  "record": {
+   "actions": {
+    "stain_293_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_293_y1": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_294.jpg",
+  "record": {
+   "actions": {
+    "stain_294_y0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_294_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_294_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_294_y3": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_294_y4": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_294_y5": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_294_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_294_v1": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_295.jpg",
+  "record": {
+   "actions": {
+    "stain_295_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_295_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_295_y2": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_295_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_295_y4": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_295_y5": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_295_y6": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_295_y7": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_295_y8": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_296.jpg",
+  "record": {
+   "actions": {
+    "stain_296_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_296_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_296_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_297.jpg",
+  "record": {
+   "actions": {
+    "stain_297_y0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_297_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_297_y2": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_297_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      1004,
+      1114,
+      1366,
+      1561
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_298.jpg",
+  "record": {
+   "actions": {
+    "stain_298_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_298_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_298_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_298_v1": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_3.jpg",
+  "record": {
+   "actions": {
+    "stain_3_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_3_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_3_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_3_y3": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_30.jpg",
+  "record": {
+   "actions": {
+    "stain_30_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_300.jpg",
+  "record": {
+   "actions": {
+    "stain_300_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "stain_300_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_300_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_300_y3": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_300_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_300_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_300_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_300_v2": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_300_v3": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_302.jpg",
+  "record": {
+   "actions": {
+    "stain_302_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_302_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_302_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_302_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_302_y4": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_302_y5": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_302_y6": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_302_y7": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_302_y8": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_302_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_302_v1": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_305.jpg",
+  "record": {
+   "actions": {
+    "stain_305_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_305_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_305_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_305_y3": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_305_y4": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_305_y5": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_305_y6": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_305_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_305_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_305_v2": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_31.jpg",
+  "record": {
+   "actions": {
+    "stain_31_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_31_y1": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_316.jpg",
+  "record": {
+   "actions": {
+    "stain_316_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_32.jpg",
+  "record": {
+   "actions": {
+    "stain_32_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_32_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_32_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_32_y3": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_321.jpg",
+  "record": {
+   "actions": {
+    "stain_321_y0": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      797,
+      34,
+      1526,
+      856
+     ],
+     "category": "wrinkle"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_322.jpg",
+  "record": {
+   "actions": {
+    "stain_322_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_322_y1": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_327.jpg",
+  "record": {
+   "actions": {
+    "stain_327_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_329.jpg",
+  "record": {
+   "actions": {
+    "stain_329_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_329_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_329_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_329_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_33.jpg",
+  "record": {
+   "actions": {
+    "stain_33_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_33_y1": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_332.jpg",
+  "record": {
+   "actions": {
+    "stain_332_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_332_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_332_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_332_y3": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_332_y4": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_333.jpg",
+  "record": {
+   "actions": {
+    "stain_333_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_333_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_333_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_334.jpg",
+  "record": {
+   "actions": {
+    "stain_334_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_336.jpg",
+  "record": {
+   "actions": {
+    "stain_336_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_337.jpg",
+  "record": {
+   "actions": {
+    "stain_337_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      785,
+      1023,
+      1431,
+      1380
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_344.jpg",
+  "record": {
+   "actions": {
+    "stain_344_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_344_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_344_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_344_v2": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_345.jpg",
+  "record": {
+   "actions": {
+    "stain_345_y0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      1298,
+      159,
+      1911,
+      835
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_346.jpg",
+  "record": {
+   "actions": {
+    "stain_346_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_349.jpg",
+  "record": {
+   "actions": {
+    "stain_349_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_349_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_355.jpg",
+  "record": {
+   "actions": {
+    "stain_355_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_355_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_356.jpg",
+  "record": {
+   "actions": {
+    "stain_356_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_360.jpg",
+  "record": {
+   "actions": {
+    "stain_360_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_362.jpg",
+  "record": {
+   "actions": {},
+   "added": []
+  }
+ },
+ {
+  "image": "stain_364.jpg",
+  "record": {
+   "actions": {
+    "stain_364_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_364_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_364_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_368.jpg",
+  "record": {
+   "actions": {
+    "stain_368_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_369.jpg",
+  "record": {
+   "actions": {
+    "stain_369_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_370.jpg",
+  "record": {
+   "actions": {
+    "stain_370_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_371.jpg",
+  "record": {
+   "actions": {
+    "stain_371_y0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      455,
+      540,
+      613,
+      674
+     ],
+     "category": "hole"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_372.jpg",
+  "record": {
+   "actions": {
+    "stain_372_y0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      1041,
+      813,
+      1171,
+      976
+     ],
+     "category": "hole"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_374.jpg",
+  "record": {
+   "actions": {
+    "stain_374_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_378.jpg",
+  "record": {
+   "actions": {
+    "stain_378_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_380.jpg",
+  "record": {
+   "actions": {
+    "stain_380_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_381.jpg",
+  "record": {
+   "actions": {
+    "stain_381_y0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      1120,
+      897,
+      1314,
+      1047
+     ],
+     "category": "hole"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_384.jpg",
+  "record": {
+   "actions": {
+    "stain_384_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_387.jpg",
+  "record": {
+   "actions": {
+    "stain_387_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_388.jpg",
+  "record": {
+   "actions": {
+    "stain_388_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_390.jpg",
+  "record": {
+   "actions": {
+    "stain_390_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_390_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_390_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_390_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_390_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_392.jpg",
+  "record": {
+   "actions": {
+    "stain_392_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_392_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_392_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_392_v0": {
+     "keep": false,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_394.jpg",
+  "record": {
+   "actions": {
+    "stain_394_y0": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_394_y1": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_394_y2": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_396.jpg",
+  "record": {
+   "actions": {
+    "stain_396_y0": {
+     "keep": false,
+     "category": "wrinkle"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      1510,
+      88,
+      1909,
+      1365
+     ],
+     "category": "wrinkle"
+    },
+    {
+     "box": [
+      1061,
+      918,
+      1419,
+      1315
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_4.jpg",
+  "record": {
+   "actions": {
+    "stain_4_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      1386,
+      623,
+      1907,
+      1320
+     ],
+     "category": "wrinkle"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_44.jpg",
+  "record": {
+   "actions": {
+    "stain_44_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_44_y1": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      681,
+      870,
+      1354,
+      1609
+     ],
+     "category": "wrinkle"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_45.jpg",
+  "record": {
+   "actions": {
+    "stain_45_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_45_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_45_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_5.jpg",
+  "record": {
+   "actions": {
+    "stain_5_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_5_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_5_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_5_v1": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_55.jpg",
+  "record": {
+   "actions": {
+    "stain_55_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_55_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_56.jpg",
+  "record": {
+   "actions": {
+    "stain_56_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_58.jpg",
+  "record": {
+   "actions": {
+    "stain_58_y0": {
+     "keep": false,
+     "category": "wrinkle"
+    },
+    "stain_58_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      702,
+      944,
+      1155,
+      1296
+     ],
+     "category": "stain"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_60.jpg",
+  "record": {
+   "actions": {
+    "stain_60_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_60_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_64.jpg",
+  "record": {
+   "actions": {
+    "stain_64_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_64_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_66.jpg",
+  "record": {
+   "actions": {
+    "stain_66_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_66_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_67.jpg",
+  "record": {
+   "actions": {
+    "stain_67_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_67_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      979,
+      108,
+      1602,
+      779
+     ],
+     "category": "wrinkle"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_69.jpg",
+  "record": {
+   "actions": {
+    "stain_69_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_69_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_7.jpg",
+  "record": {
+   "actions": {
+    "stain_7_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_7_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_7_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_7_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_71.jpg",
+  "record": {
+   "actions": {
+    "stain_71_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": [
+    {
+     "box": [
+      1039,
+      508,
+      1572,
+      1130
+     ],
+     "category": "wrinkle"
+    }
+   ]
+  }
+ },
+ {
+  "image": "stain_72.jpg",
+  "record": {
+   "actions": {
+    "stain_72_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_79.jpg",
+  "record": {
+   "actions": {
+    "stain_79_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_79_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_79_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_79_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_79_y4": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_79_y5": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_79_y6": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_8.jpg",
+  "record": {
+   "actions": {
+    "stain_8_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_82.jpg",
+  "record": {
+   "actions": {
+    "stain_82_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_82_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_82_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_83.jpg",
+  "record": {
+   "actions": {
+    "stain_83_y0": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_84.jpg",
+  "record": {
+   "actions": {
+    "stain_84_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_84_y1": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_86.jpg",
+  "record": {
+   "actions": {
+    "stain_86_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_86_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_86_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_9.jpg",
+  "record": {
+   "actions": {
+    "stain_9_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_91.jpg",
+  "record": {
+   "actions": {
+    "stain_91_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_91_y1": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_93.jpg",
+  "record": {
+   "actions": {
+    "stain_93_y0": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_93_y1": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_93_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_93_y3": {
+     "keep": true,
+     "category": "wrinkle"
+    },
+    "stain_93_y4": {
+     "keep": false,
+     "category": "none"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_95.jpg",
+  "record": {
+   "actions": {
+    "stain_95_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_95_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_95_y2": {
+     "keep": false,
+     "category": "none"
+    },
+    "stain_95_v0": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_97.jpg",
+  "record": {
+   "actions": {
+    "stain_97_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_97_y1": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_98.jpg",
+  "record": {
+   "actions": {
+    "stain_98_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_98_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_98_y2": {
+     "keep": true,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "stain_99.jpg",
+  "record": {
+   "actions": {
+    "stain_99_y0": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_99_y1": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_99_y2": {
+     "keep": true,
+     "category": "stain"
+    },
+    "stain_99_v0": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_99_v1": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_99_v2": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_99_v3": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_99_v4": {
+     "keep": false,
+     "category": "stain"
+    },
+    "stain_99_v5": {
+     "keep": false,
+     "category": "stain"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "tattered-black-hole-brown-striped-old-clothes-210765875_jpg.rf.303742539e17b39f380588086b52670e.jpg",
+  "record": {
+   "actions": {
+    "tattered-black-hole-brown-striped-old-clothes-210765875_jpg.rf.303742539e17b39f380588086b52670e_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "tattered-black-hole-brown-striped-old-clothes-210765875_jpg.rf.303742539e17b39f380588086b52670e_y1": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "tear-denim-texture-hole-threads-showing-217268704_jpg.rf.d444b03f2685356c3e4c9dd667a1445e.jpg",
+  "record": {
+   "actions": {
+    "tear-denim-texture-hole-threads-showing-217268704_jpg.rf.d444b03f2685356c3e4c9dd667a1445e_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "tear-denim-texture-hole-threads-showing-217268704_jpg.rf.d444b03f2685356c3e4c9dd667a1445e_y1": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "tear-denim-texture-hole-threads-showing-217268705_jpg.rf.9c176e880e5805fb83a74b5a804dc7fb.jpg",
+  "record": {
+   "actions": {
+    "tear-denim-texture-hole-threads-showing-217268705_jpg.rf.9c176e880e5805fb83a74b5a804dc7fb_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "texture-background-blue-jeans-jeans-large-fashionable-hole-texture-blue-jeans-jeans-large-fashionable-hole-168544071_jpg.rf.4b679393fae3171f9b0bb3a4210edbcc.jpg",
+  "record": {
+   "actions": {
+    "texture-background-blue-jeans-jeans-large-fashionable-hole-texture-blue-jeans-jeans-large-fashionable-hole-168544071_jpg.rf.4b679393fae3171f9b0bb3a4210edbcc_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "texture-background-jeans-holes-close-up-dark-style-66714237_jpg.rf.0003561fe4eca6864a3b7f9860ed0c34.jpg",
+  "record": {
+   "actions": {
+    "texture-background-jeans-holes-close-up-dark-style-66714237_jpg.rf.0003561fe4eca6864a3b7f9860ed0c34_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "texture-background-jeans-holes-close-up-dark-style-66714237_jpg.rf.0003561fe4eca6864a3b7f9860ed0c34_y1": {
+     "keep": true,
+     "category": "hole"
+    },
+    "texture-background-jeans-holes-close-up-dark-style-66714237_jpg.rf.0003561fe4eca6864a3b7f9860ed0c34_y2": {
+     "keep": true,
+     "category": "wrinkle"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "texture-holes-denim-pants-close-up-black-jeans-169788437_jpg.rf.f7cbfcba2de10cd569e0bd1e0a3eab3d.jpg",
+  "record": {
+   "actions": {
+    "texture-holes-denim-pants-close-up-black-jeans-169788437_jpg.rf.f7cbfcba2de10cd569e0bd1e0a3eab3d_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "torn-denim-jeans-texture-torn-denim-fabric-as-background-124173420_jpg.rf.22ff556d51bcb2a738d672c050c2902e.jpg",
+  "record": {
+   "actions": {
+    "torn-denim-jeans-texture-torn-denim-fabric-as-background-124173420_jpg.rf.22ff556d51bcb2a738d672c050c2902e_y0": {
+     "keep": true,
+     "category": "hole"
+    },
+    "torn-denim-jeans-texture-torn-denim-fabric-as-background-124173420_jpg.rf.22ff556d51bcb2a738d672c050c2902e_v0": {
+     "keep": false,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "torn-protective-car-cover-background-torn-protective-car-cover-weathered-material-background-texture-133369925_jpg.rf.e73733acecbd68516726b8da46599e4e.jpg",
+  "record": {
+   "actions": {},
+   "added": [
+    {
+     "box": [
+      147,
+      174,
+      532,
+      481
+     ],
+     "category": "hole"
+    },
+    {
+     "box": [
+      13,
+      107,
+      107,
+      228
+     ],
+     "category": "hole"
+    }
+   ]
+  }
+ },
+ {
+  "image": "vintage-jeans-torn-denim-texture_44272-5771_jpg.rf.a585051d08aa255f64ccb1134ec640f7.jpg",
+  "record": {
+   "actions": {
+    "vintage-jeans-torn-denim-texture_44272-5771_jpg.rf.a585051d08aa255f64ccb1134ec640f7_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "white-hole-jeans-26145633_jpg.rf.763587645bd0c2a4e2685c7739ae5e59.jpg",
+  "record": {
+   "actions": {
+    "white-hole-jeans-26145633_jpg.rf.763587645bd0c2a4e2685c7739ae5e59_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ },
+ {
+  "image": "yellow-color-jeans-hole-surface-abstract-background-texture-99503000_jpg.rf.7dd166fc314fc8451b33dfe6557d0ef1.jpg",
+  "record": {
+   "actions": {
+    "yellow-color-jeans-hole-surface-abstract-background-texture-99503000_jpg.rf.7dd166fc314fc8451b33dfe6557d0ef1_y0": {
+     "keep": true,
+     "category": "hole"
+    }
+   },
+   "added": []
+  }
+ }
+]

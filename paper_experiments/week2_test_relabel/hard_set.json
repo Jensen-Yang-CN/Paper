@@ -1,0 +1,4465 @@
+{
+ "total_boxes": 849,
+ "area_percentile": 0.3,
+ "area_thr": 0.003601047656,
+ "contrast_percentile": 0.3,
+ "contrast_thr": 18.255511909485524,
+ "hard_box_count": 495,
+ "hard_boxes": [
+  {
+   "image": "v00001.jpg",
+   "cls": 2,
+   "area": 0.344355621111,
+   "contrast": 7.695193505230364,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00002.jpg",
+   "cls": 2,
+   "area": 0.114988831111,
+   "contrast": 12.634197637547253,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00016.jpg",
+   "cls": 2,
+   "area": 0.08889993,
+   "contrast": 9.145617127683474,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00016.jpg",
+   "cls": 2,
+   "area": 0.07419993,
+   "contrast": 14.165843272370932,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00023.jpg",
+   "cls": 2,
+   "area": 0.22462220111099998,
+   "contrast": 4.182523089053694,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00023.jpg",
+   "cls": 2,
+   "area": 0.11122220111100001,
+   "contrast": 4.352810977474705,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00024.jpg",
+   "cls": 2,
+   "area": 0.27500025,
+   "contrast": 9.341722646683012,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00024.jpg",
+   "cls": 2,
+   "area": 0.40568882111099996,
+   "contrast": 7.657312074650451,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00026.jpg",
+   "cls": 2,
+   "area": 0.18907810888899998,
+   "contrast": 3.163532349747013,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00027.jpg",
+   "cls": 2,
+   "area": 0.5574997500000001,
+   "contrast": 4.843937332794386,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00029.jpg",
+   "cls": 2,
+   "area": 0.10749974999999999,
+   "contrast": 17.405124544025707,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00029.jpg",
+   "cls": 2,
+   "area": 0.15249975000000002,
+   "contrast": 9.330601987197051,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00029.jpg",
+   "cls": 2,
+   "area": 0.12249975,
+   "contrast": 15.364157543286481,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00029.jpg",
+   "cls": 2,
+   "area": 0.18,
+   "contrast": 9.86868497392721,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00029.jpg",
+   "cls": 2,
+   "area": 0.11200004999999999,
+   "contrast": 11.18589935375718,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00030.jpg",
+   "cls": 2,
+   "area": 0.099088741111,
+   "contrast": 14.09988000899256,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00030.jpg",
+   "cls": 2,
+   "area": 0.08722234111100001,
+   "contrast": 4.982872002750246,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00030.jpg",
+   "cls": 2,
+   "area": 0.012088831111,
+   "contrast": 5.282877160219173,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00031.jpg",
+   "cls": 2,
+   "area": 0.10266689999999999,
+   "contrast": 5.343559206530904,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00031.jpg",
+   "cls": 2,
+   "area": 0.025055571111000003,
+   "contrast": 6.333547165378052,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00032.jpg",
+   "cls": 2,
+   "area": 0.18546658,
+   "contrast": 4.06517802001336,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00033.jpg",
+   "cls": 2,
+   "area": 0.0184,
+   "contrast": 8.12961072830855,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00033.jpg",
+   "cls": 2,
+   "area": 0.09426662000000001,
+   "contrast": 4.695443652709807,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00033.jpg",
+   "cls": 2,
+   "area": 0.220522371111,
+   "contrast": 6.97960465052736,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00033.jpg",
+   "cls": 2,
+   "area": 0.14123327,
+   "contrast": 7.851932137061103,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00034.jpg",
+   "cls": 2,
+   "area": 0.5625,
+   "contrast": 7.467263579406354,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00036.jpg",
+   "cls": 2,
+   "area": 0.2475,
+   "contrast": 13.980621264847677,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00036.jpg",
+   "cls": 2,
+   "area": 0.087777578889,
+   "contrast": 15.893045280787847,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00036.jpg",
+   "cls": 2,
+   "area": 0.1679,
+   "contrast": 6.826332966911038,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00037.jpg",
+   "cls": 2,
+   "area": 0.4425,
+   "contrast": 12.352529837700642,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00038.jpg",
+   "cls": 2,
+   "area": 0.34023353,
+   "contrast": 4.208457938948687,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00038.jpg",
+   "cls": 2,
+   "area": 0.309722331111,
+   "contrast": 7.458474768712793,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00039.jpg",
+   "cls": 2,
+   "area": 0.39500025,
+   "contrast": 6.808431788769763,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00040.jpg",
+   "cls": 2,
+   "area": 0.4526,
+   "contrast": 12.07559209197211,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00041.jpg",
+   "cls": 2,
+   "area": 0.53750025,
+   "contrast": 7.247522015378288,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00041.jpg",
+   "cls": 2,
+   "area": 0.11537803888900001,
+   "contrast": 4.948726209816157,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00042.jpg",
+   "cls": 2,
+   "area": 0.460444898889,
+   "contrast": 6.0291149758832905,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00042.jpg",
+   "cls": 2,
+   "area": 0.06613328,
+   "contrast": 2.9693584459497875,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00043.jpg",
+   "cls": 2,
+   "area": 0.17422229111099996,
+   "contrast": 6.435953834357006,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00049.jpg",
+   "cls": 2,
+   "area": 0.557511608889,
+   "contrast": 11.550656745398365,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00053.jpg",
+   "cls": 2,
+   "area": 0.23000025000000002,
+   "contrast": 9.124027357859017,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00056.jpg",
+   "cls": 2,
+   "area": 0.256511458889,
+   "contrast": 5.833909189149242,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00057.jpg",
+   "cls": 2,
+   "area": 0.264,
+   "contrast": 5.623869417677018,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00057.jpg",
+   "cls": 2,
+   "area": 0.3723,
+   "contrast": 6.266354951047393,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00058.jpg",
+   "cls": 2,
+   "area": 0.08879999999999999,
+   "contrast": 5.25033580747415,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00059.jpg",
+   "cls": 2,
+   "area": 0.415644878889,
+   "contrast": 7.804196382257401,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00062.jpg",
+   "cls": 2,
+   "area": 0.20053349,
+   "contrast": 13.438836982911056,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00063.jpg",
+   "cls": 2,
+   "area": 0.54,
+   "contrast": 5.3805263016374845,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00064.jpg",
+   "cls": 2,
+   "area": 0.56000025,
+   "contrast": 11.336964856086842,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00065.jpg",
+   "cls": 2,
+   "area": 0.41499975,
+   "contrast": 17.902968240142773,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00067.jpg",
+   "cls": 2,
+   "area": 0.15999975,
+   "contrast": 14.898907951259108,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00068.jpg",
+   "cls": 2,
+   "area": 0.26133344999999997,
+   "contrast": 6.58520045251077,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00069.jpg",
+   "cls": 2,
+   "area": 0.5102222011109999,
+   "contrast": 11.83535449631748,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00070.jpg",
+   "cls": 2,
+   "area": 0.259,
+   "contrast": 17.706745665931017,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00070.jpg",
+   "cls": 2,
+   "area": 0.06149999999999999,
+   "contrast": 8.660690030916802,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00070.jpg",
+   "cls": 2,
+   "area": 0.39999975,
+   "contrast": 11.726465274261567,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00071.jpg",
+   "cls": 2,
+   "area": 0.35000025,
+   "contrast": 9.682379513429336,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00071.jpg",
+   "cls": 2,
+   "area": 0.13860018,
+   "contrast": 6.807364707035768,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00072.jpg",
+   "cls": 2,
+   "area": 0.138278028889,
+   "contrast": 8.207962927710126,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00072.jpg",
+   "cls": 2,
+   "area": 0.33500025,
+   "contrast": 6.814764857731901,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00074.jpg",
+   "cls": 2,
+   "area": 0.134055591111,
+   "contrast": 4.031421170933027,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00074.jpg",
+   "cls": 2,
+   "area": 0.26576689000000003,
+   "contrast": 7.131042927423021,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00075.jpg",
+   "cls": 2,
+   "area": 0.43166689999999996,
+   "contrast": 3.6382653069996964,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00075.jpg",
+   "cls": 2,
+   "area": 0.335144048889,
+   "contrast": 3.605980666781302,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00076.jpg",
+   "cls": 2,
+   "area": 0.542578268889,
+   "contrast": 4.3807674484308885,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00077.jpg",
+   "cls": 2,
+   "area": 0.027066620000000003,
+   "contrast": 3.8861666008616607,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00079.jpg",
+   "cls": 2,
+   "area": 0.54249975,
+   "contrast": 6.573988377147242,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00080.jpg",
+   "cls": 2,
+   "area": 0.14038893111099998,
+   "contrast": 3.824051608832635,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00080.jpg",
+   "cls": 2,
+   "area": 0.40133309999999994,
+   "contrast": 3.745685773750472,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00081.jpg",
+   "cls": 2,
+   "area": 0.5625,
+   "contrast": 4.356120983426965,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00083.jpg",
+   "cls": 2,
+   "area": 0.48249975,
+   "contrast": 10.529570420709513,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00084.jpg",
+   "cls": 2,
+   "area": 0.04919994,
+   "contrast": 3.2296983390038596,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00084.jpg",
+   "cls": 2,
+   "area": 0.058888951111,
+   "contrast": 4.1642773649920475,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00085.jpg",
+   "cls": 2,
+   "area": 0.048166610000000006,
+   "contrast": 3.3068191757676275,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00085.jpg",
+   "cls": 2,
+   "area": 0.104377998889,
+   "contrast": 3.9350569092998158,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00086.jpg",
+   "cls": 2,
+   "area": 0.53760024,
+   "contrast": 7.167600029222837,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00092.jpg",
+   "cls": 2,
+   "area": 0.54999975,
+   "contrast": 10.076524065546938,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00093.jpg",
+   "cls": 2,
+   "area": 0.054000000000000006,
+   "contrast": 6.263417327606111,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00093.jpg",
+   "cls": 2,
+   "area": 0.02376659,
+   "contrast": 5.195659899782468,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00093.jpg",
+   "cls": 2,
+   "area": 0.12249999999999998,
+   "contrast": 9.606551632911843,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00093.jpg",
+   "cls": 2,
+   "area": 0.0105,
+   "contrast": 7.059262083359957,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00094.jpg",
+   "cls": 2,
+   "area": 0.0319,
+   "contrast": 7.5565158698987815,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00094.jpg",
+   "cls": 2,
+   "area": 0.07629993,
+   "contrast": 5.550421966571807,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00094.jpg",
+   "cls": 2,
+   "area": 0.044577608889,
+   "contrast": 7.646078926456088,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00094.jpg",
+   "cls": 2,
+   "area": 0.131755581111,
+   "contrast": 10.207686840445625,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00095.jpg",
+   "cls": 2,
+   "area": 0.21000000000000002,
+   "contrast": 4.953029494458869,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00095.jpg",
+   "cls": 2,
+   "area": 0.21000000000000002,
+   "contrast": 5.087533438145933,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00096.jpg",
+   "cls": 2,
+   "area": 0.532855551111,
+   "contrast": 4.710232333441627,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00097.jpg",
+   "cls": 2,
+   "area": 0.12244467888899999,
+   "contrast": 2.512856870401522,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00097.jpg",
+   "cls": 2,
+   "area": 0.034988911111,
+   "contrast": 2.3781013561852515,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00098.jpg",
+   "cls": 2,
+   "area": 0.391111528889,
+   "contrast": 2.953629530378837,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00100.jpg",
+   "cls": 2,
+   "area": 0.10933346999999999,
+   "contrast": 3.1556595072617855,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00100.jpg",
+   "cls": 2,
+   "area": 0.181711438889,
+   "contrast": 3.9056994675685677,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00101.jpg",
+   "cls": 2,
+   "area": 0.515377298889,
+   "contrast": 3.6429134989307195,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00102.jpg",
+   "cls": 2,
+   "area": 0.25391145888899996,
+   "contrast": 3.632578050621907,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00103.jpg",
+   "cls": 2,
+   "area": 0.35443317,
+   "contrast": 5.4950731412804625,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00110.jpg",
+   "cls": 2,
+   "area": 0.11300009999999999,
+   "contrast": 3.595077207407183,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00112.jpg",
+   "cls": 2,
+   "area": 0.040610968888999996,
+   "contrast": 3.25478539399886,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00113.jpg",
+   "cls": 2,
+   "area": 0.56000025,
+   "contrast": 5.336639193532241,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00114.jpg",
+   "cls": 2,
+   "area": 0.307488961111,
+   "contrast": 6.56906795549193,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00115.jpg",
+   "cls": 2,
+   "area": 0.065777948889,
+   "contrast": 4.19933054470975,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00115.jpg",
+   "cls": 2,
+   "area": 0.43250025000000003,
+   "contrast": 3.907598997310571,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00115.jpg",
+   "cls": 2,
+   "area": 0.03079989,
+   "contrast": 4.372138327119829,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00115.jpg",
+   "cls": 2,
+   "area": 0.14186673,
+   "contrast": 3.581992066178505,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00117.jpg",
+   "cls": 2,
+   "area": 0.3406669,
+   "contrast": 6.907791887306727,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00118.jpg",
+   "cls": 2,
+   "area": 0.243288961111,
+   "contrast": 3.3720795617117516,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00118.jpg",
+   "cls": 2,
+   "area": 0.288755591111,
+   "contrast": 3.3522592097688073,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00119.jpg",
+   "cls": 2,
+   "area": 0.365,
+   "contrast": 3.4044881024882936,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00119.jpg",
+   "cls": 2,
+   "area": 0.25749975,
+   "contrast": 3.4279698286481675,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00129.jpg",
+   "cls": 2,
+   "area": 0.002834485156,
+   "contrast": 48.26918038834103,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00129.jpg",
+   "cls": 0,
+   "area": 0.002624458594,
+   "contrast": 63.07952931158002,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00129.jpg",
+   "cls": 2,
+   "area": 0.0031445312499999998,
+   "contrast": 53.700622768321836,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00129.jpg",
+   "cls": 2,
+   "area": 0.002175297656,
+   "contrast": 48.75307162805499,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00134.jpg",
+   "cls": 1,
+   "area": 0.0026586398439999996,
+   "contrast": 27.35857280577294,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.0023584343749999998,
+   "contrast": 22.69553659349558,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.35236856250000004,
+   "contrast": 12.33905051361589,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.00139163125,
+   "contrast": 23.276352335020352,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.308122002344,
+   "contrast": 10.57477875360305,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.001428241406,
+   "contrast": 31.91777929314245,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.6179671085940001,
+   "contrast": 11.20195379127114,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.091430390625,
+   "contrast": 9.073766416569544,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.000615234375,
+   "contrast": 26.59411426575901,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.1740234375,
+   "contrast": 10.189057875954392,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.335246002344,
+   "contrast": 13.158959099472478,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.227587890625,
+   "contrast": 7.8418198034056985,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.0010937499999999999,
+   "contrast": 25.502309803726703,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 2,
+   "area": 0.0012450937499999999,
+   "contrast": 21.041872008073966,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.000920422656,
+   "contrast": 19.39456986781209,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.12849609375,
+   "contrast": 7.597860317174579,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.08780248125,
+   "contrast": 5.831376302530463,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.619958510156,
+   "contrast": 14.92140062694136,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.246399427344,
+   "contrast": 8.475865102130102,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00146.jpg",
+   "cls": 0,
+   "area": 0.14484375000000002,
+   "contrast": 8.694857419964988,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 2,
+   "area": 0.0104491875,
+   "contrast": 18.244201713096007,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 2,
+   "area": 0.002133753125,
+   "contrast": 17.883895580800278,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.354375,
+   "contrast": 9.021231318555461,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.00109861875,
+   "contrast": 21.350294223666793,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.0012988281249999999,
+   "contrast": 17.22201613514435,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.0034032937499999995,
+   "contrast": 21.682152048457326,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.001618608594,
+   "contrast": 24.3109201979095,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.3092873625,
+   "contrast": 7.962284529625466,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.519977872656,
+   "contrast": 7.464658180083863,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.000571303125,
+   "contrast": 20.026016084878098,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 2,
+   "area": 0.0035156249999999997,
+   "contrast": 22.252694211968088,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.23651367187499997,
+   "contrast": 5.683700997062124,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 2,
+   "area": 0.14250478125,
+   "contrast": 6.5434458970344265,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.177043110156,
+   "contrast": 10.27120344309091,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.08834466875000001,
+   "contrast": 9.275496947592035,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.1340625,
+   "contrast": 5.734003878710442,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.18184108125,
+   "contrast": 5.949408699338081,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00147.jpg",
+   "cls": 0,
+   "area": 0.10029305,
+   "contrast": 3.1224820195944907,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.0022949375,
+   "contrast": 33.99442298776129,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.001428241406,
+   "contrast": 44.410491975164454,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.001660125,
+   "contrast": 31.968628653620407,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.00109865625,
+   "contrast": 35.82209362241486,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.5320410156250001,
+   "contrast": 15.988339381475257,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.28861082265599997,
+   "contrast": 16.139238521948208,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.225983289844,
+   "contrast": 12.764102430079996,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.0006665304690000001,
+   "contrast": 40.51115922153468,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.22046875000000002,
+   "contrast": 14.13775075719557,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.09562499999999999,
+   "contrast": 14.594050458473463,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.000920422656,
+   "contrast": 30.044780009901615,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00148.jpg",
+   "cls": 0,
+   "area": 0.11359870625,
+   "contrast": 12.063819684902645,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00149.jpg",
+   "cls": 0,
+   "area": 0.0018408,
+   "contrast": 86.72611521232041,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00149.jpg",
+   "cls": 1,
+   "area": 0.24106262109399998,
+   "contrast": 14.726522013117183,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00149.jpg",
+   "cls": 0,
+   "area": 0.001079128125,
+   "contrast": 67.23853167349554,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00149.jpg",
+   "cls": 1,
+   "area": 0.06609375,
+   "contrast": 17.756150961924803,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00149.jpg",
+   "cls": 0,
+   "area": 0.0009131124999999998,
+   "contrast": 67.9454729294096,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00149.jpg",
+   "cls": 2,
+   "area": 0.0476562,
+   "contrast": 17.6370961907991,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00149.jpg",
+   "cls": 0,
+   "area": 0.20882812500000003,
+   "contrast": 12.648890965176289,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 0,
+   "area": 0.00158205,
+   "contrast": 77.41153263364791,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 0,
+   "area": 0.00112791875,
+   "contrast": 59.55501330872329,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 0,
+   "area": 0.15073228125,
+   "contrast": 11.770208442360886,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 2,
+   "area": 0.020019375,
+   "contrast": 12.309228527308282,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 2,
+   "area": 0.0166505625,
+   "contrast": 11.237705775677297,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 0,
+   "area": 0.000351575,
+   "contrast": 67.89933927099364,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 2,
+   "area": 0.0138671875,
+   "contrast": 9.863631774070315,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 0,
+   "area": 0.0708984375,
+   "contrast": 10.125508459832233,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 2,
+   "area": 0.009008775,
+   "contrast": 16.80229543850738,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00150.jpg",
+   "cls": 2,
+   "area": 0.016845703125,
+   "contrast": 12.488714652749449,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 0,
+   "area": 0.0017089624999999998,
+   "contrast": 73.54179143229574,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 0,
+   "area": 0.00101565,
+   "contrast": 49.97143784795186,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 0,
+   "area": 0.056835750000000004,
+   "contrast": 11.747791650184366,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 2,
+   "area": 0.026147515625,
+   "contrast": 12.663805109847388,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 2,
+   "area": 0.013266581250000001,
+   "contrast": 17.458701198169162,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 2,
+   "area": 0.044948938281,
+   "contrast": 10.652272465187044,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 2,
+   "area": 0.0116212,
+   "contrast": 11.44518996100174,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 0,
+   "area": 0.094848515625,
+   "contrast": 15.950908991093705,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 2,
+   "area": 0.0065527,
+   "contrast": 13.661664575429068,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 0,
+   "area": 0.015273437499999999,
+   "contrast": 9.578908470303181,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00151.jpg",
+   "cls": 2,
+   "area": 0.073784521875,
+   "contrast": 16.4618335140108,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00157.jpg",
+   "cls": 2,
+   "area": 0.016875,
+   "contrast": 13.94119505304706,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00157.jpg",
+   "cls": 2,
+   "area": 0.0186766875,
+   "contrast": 10.825896626857206,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00157.jpg",
+   "cls": 2,
+   "area": 0.017104540625,
+   "contrast": 10.589895945790689,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00157.jpg",
+   "cls": 0,
+   "area": 0.0032031,
+   "contrast": 15.64419163176939,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00157.jpg",
+   "cls": 2,
+   "area": 0.00571284375,
+   "contrast": 11.630316685247138,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00157.jpg",
+   "cls": 2,
+   "area": 0.0021484375,
+   "contrast": 41.450366599954954,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00157.jpg",
+   "cls": 1,
+   "area": 0.002175297656,
+   "contrast": 23.63335365919051,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00157.jpg",
+   "cls": 1,
+   "area": 0.003185977344,
+   "contrast": 13.690659434035373,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00157.jpg",
+   "cls": 1,
+   "area": 0.0024219000000000003,
+   "contrast": 15.324524902895055,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.0032226562500000003,
+   "contrast": 17.75478438540115,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.0033300781250000006,
+   "contrast": 29.14363315747592,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.0018529835939999997,
+   "contrast": 29.72164599883452,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.00252931875,
+   "contrast": 27.103022225345256,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.003601047656,
+   "contrast": 24.08629606689709,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.002475565625,
+   "contrast": 28.67880377781438,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.0026660156250000004,
+   "contrast": 33.51714889299307,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.00220213125,
+   "contrast": 25.67028364800463,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.0011718750000000002,
+   "contrast": 22.22148453636705,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.0026855125000000003,
+   "contrast": 27.266822803610424,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.0015771187499999998,
+   "contrast": 29.62970774956216,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.002685546875,
+   "contrast": 26.56549148832991,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.00306149375,
+   "contrast": 18.332282212513917,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.0033203125,
+   "contrast": 25.419673037209606,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.002624458594,
+   "contrast": 36.253891083755654,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.0020141148439999997,
+   "contrast": 30.783205618290392,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.00266599375,
+   "contrast": 32.407082749689806,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.0025976562499999997,
+   "contrast": 29.875610229285083,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.001709,
+   "contrast": 34.6967003703451,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.0021898929689999997,
+   "contrast": 29.938371405285366,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.002153353125,
+   "contrast": 27.98849194071416,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.09852544999999999,
+   "contrast": 13.871191661909826,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.347590466406,
+   "contrast": 15.966988326167103,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 2,
+   "area": 0.0011865375,
+   "contrast": 27.87560065280468,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.0006592031250000001,
+   "contrast": 33.87738400137186,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.001484375,
+   "contrast": 28.28667438529325,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.003486328125,
+   "contrast": 30.13208344873578,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00166.jpg",
+   "cls": 0,
+   "area": 0.0018529835939999997,
+   "contrast": 27.58183576716374,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.003149390625,
+   "contrast": 20.788166087654375,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.001965322656,
+   "contrast": 35.76666043940956,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.00302734375,
+   "contrast": 33.0907668807712,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.0024390148440000003,
+   "contrast": 33.12907912820154,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.00260251875,
+   "contrast": 39.76700435067177,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.0013281,
+   "contrast": 27.38811795239617,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.002475565625,
+   "contrast": 37.34353286392676,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.002856425,
+   "contrast": 33.53253723475962,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.003601047656,
+   "contrast": 29.06797721816149,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.002358365625,
+   "contrast": 30.922200901701782,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.0015771187499999998,
+   "contrast": 35.61240965989204,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.0031420335939999996,
+   "contrast": 23.653750896562293,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.0027294718749999998,
+   "contrast": 43.940368587032665,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.00291988125,
+   "contrast": 34.58188036538219,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.003418,
+   "contrast": 32.64714707665737,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.00209470625,
+   "contrast": 37.2693913198842,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.002761177344,
+   "contrast": 38.038408027611794,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.002475565625,
+   "contrast": 34.01314221784401,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.0019335937500000002,
+   "contrast": 37.5433730184678,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.00166015625,
+   "contrast": 42.200713738654976,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.0019482093750000002,
+   "contrast": 30.51639038671743,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.000637222656,
+   "contrast": 41.84050493694534,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.001535628906,
+   "contrast": 33.12863186659414,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.003486328125,
+   "contrast": 36.28259086630602,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.00123046875,
+   "contrast": 32.78635542239097,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.00129880625,
+   "contrast": 28.39542654730203,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 2,
+   "area": 0.0910888125,
+   "contrast": 16.03546482660207,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00167.jpg",
+   "cls": 0,
+   "area": 0.0019091531249999997,
+   "contrast": 33.75434124205015,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0031787593750000004,
+   "contrast": 33.952049640643175,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0030078125,
+   "contrast": 20.96252643773062,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.001826171875,
+   "contrast": 33.977449761301024,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0024609375,
+   "contrast": 32.15465294042722,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0022851374999999998,
+   "contrast": 39.79774431113577,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.00234375,
+   "contrast": 38.85173003977214,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0018896343749999999,
+   "contrast": 36.2777710369215,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0023632812500000004,
+   "contrast": 34.40853422634705,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.002373075,
+   "contrast": 32.427749660720984,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0031445312499999998,
+   "contrast": 38.78923859358563,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0028027124999999995,
+   "contrast": 40.025527319612046,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0025976562499999997,
+   "contrast": 37.54536968224674,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.0034642960939999996,
+   "contrast": 42.48141771858511,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.003027375,
+   "contrast": 27.368883270684886,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.001391578125,
+   "contrast": 34.71162500014788,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.00158203125,
+   "contrast": 34.55248388554981,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.001987321875,
+   "contrast": 32.93591315853622,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.00232421875,
+   "contrast": 36.32012269201717,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.0032372781249999996,
+   "contrast": 33.430482164702504,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.00219725,
+   "contrast": 35.65102954754023,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.0010937499999999999,
+   "contrast": 37.56063543529652,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.001486822656,
+   "contrast": 36.612460511261375,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.002136222656,
+   "contrast": 37.4856670386607,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 0,
+   "area": 0.002175297656,
+   "contrast": 35.95045364300255,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.25266133749999997,
+   "contrast": 16.723051107661128,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00168.jpg",
+   "cls": 2,
+   "area": 0.018193443750000003,
+   "contrast": 11.228639786210769,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00169.jpg",
+   "cls": 1,
+   "area": 0.0029027773439999995,
+   "contrast": 25.988291690568172,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00169.jpg",
+   "cls": 1,
+   "area": 0.00150390625,
+   "contrast": 21.492154536285334,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00169.jpg",
+   "cls": 1,
+   "area": 0.0029296875,
+   "contrast": 27.252145366618997,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00169.jpg",
+   "cls": 1,
+   "area": 0.0031152000000000003,
+   "contrast": 25.138713459598087,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00169.jpg",
+   "cls": 1,
+   "area": 0.0018529835939999997,
+   "contrast": 19.54080904302174,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00169.jpg",
+   "cls": 1,
+   "area": 0.001965322656,
+   "contrast": 20.826262750886798,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00169.jpg",
+   "cls": 0,
+   "area": 0.0017187500000000002,
+   "contrast": 22.167520549611815,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00169.jpg",
+   "cls": 1,
+   "area": 0.001416,
+   "contrast": 25.228084485573305,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00169.jpg",
+   "cls": 1,
+   "area": 0.001875,
+   "contrast": 22.986871040539096,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0022558375,
+   "contrast": 43.86458385709722,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002380321094,
+   "contrast": 37.54430847450097,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0029394312499999996,
+   "contrast": 46.765247518125015,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.003185977344,
+   "contrast": 49.74306182831715,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0029394312499999996,
+   "contrast": 59.34498473500692,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002077625781,
+   "contrast": 42.99612554239326,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.003185977344,
+   "contrast": 36.709465599204854,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0030443773439999995,
+   "contrast": 31.784322203889978,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.00179685,
+   "contrast": 55.19538103691211,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.00256344375,
+   "contrast": 35.887651714457874,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0027294718749999998,
+   "contrast": 33.38360296116579,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0021337593749999996,
+   "contrast": 33.23468029656214,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0027929687500000003,
+   "contrast": 32.63009276812484,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.00263675,
+   "contrast": 35.027260976107456,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0021337593749999996,
+   "contrast": 48.17414940360383,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.00231930625,
+   "contrast": 65.16598879239736,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002441375,
+   "contrast": 46.61925315296171,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0025390625,
+   "contrast": 31.110315682485535,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.00209470625,
+   "contrast": 39.75113012843799,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.00256344375,
+   "contrast": 43.749905472669,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002077625781,
+   "contrast": 45.805942776809054,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.00256344375,
+   "contrast": 44.61420752821449,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0025195125,
+   "contrast": 75.97564909501659,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.00256344375,
+   "contrast": 74.87125329872302,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.001965322656,
+   "contrast": 44.552625152237894,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002094709375,
+   "contrast": 60.880806910848406,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0022217,
+   "contrast": 38.29105676758236,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.00231930625,
+   "contrast": 49.90251922889771,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0033983999999999998,
+   "contrast": 63.65602790025898,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.0027685875000000005,
+   "contrast": 58.45537371059312,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002570810156,
+   "contrast": 43.822766697836556,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002734375,
+   "contrast": 60.69866721379154,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002373075,
+   "contrast": 53.51543493694797,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002475565625,
+   "contrast": 52.831450447656216,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00173.jpg",
+   "cls": 0,
+   "area": 0.002475565625,
+   "contrast": 47.816776113859135,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0025635,
+   "contrast": 63.199544740594305,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.0029027773439999995,
+   "contrast": 44.910752420402694,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0018799,
+   "contrast": 30.78957415249835,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 2,
+   "area": 0.00263675,
+   "contrast": 32.97624451528648,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.00202145625,
+   "contrast": 37.76620026979256,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.00202145625,
+   "contrast": 47.16580050695402,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0024121093749999998,
+   "contrast": 54.27893648061891,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.002380321094,
+   "contrast": 26.422797614844153,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.0023486531250000004,
+   "contrast": 50.08124511035221,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.00260251875,
+   "contrast": 28.98095357331954,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0021679875,
+   "contrast": 66.60063261425786,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.002136222656,
+   "contrast": 46.75329368634409,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.0029199218749999998,
+   "contrast": 44.212644393523725,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.001965322656,
+   "contrast": 43.46692565638286,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0021679875,
+   "contrast": 49.64598027258067,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.00234375,
+   "contrast": 28.517791413139506,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.0022851374999999998,
+   "contrast": 31.14431326764745,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.00287109375,
+   "contrast": 54.19897815098927,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.00231930625,
+   "contrast": 37.52410193514005,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.002136222656,
+   "contrast": 68.80194545770804,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.002624458594,
+   "contrast": 35.094101295343464,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0024072,
+   "contrast": 54.56527005683752,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.00209470625,
+   "contrast": 64.94827802418469,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.002702647656,
+   "contrast": 28.709651713472883,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.0029736,
+   "contrast": 57.10611802208716,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0024609375,
+   "contrast": 30.579699799188937,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.0024609375,
+   "contrast": 43.95585266801994,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.0024121093749999998,
+   "contrast": 41.43235569192555,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.0024121093749999998,
+   "contrast": 56.42331571532609,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0019921875,
+   "contrast": 43.857381384445546,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0024121093749999998,
+   "contrast": 63.36385875602298,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.0027929687500000003,
+   "contrast": 61.365970254014854,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 1,
+   "area": 0.002258291406,
+   "contrast": 49.456926004523034,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.0025976562499999997,
+   "contrast": 61.46186097428421,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00174.jpg",
+   "cls": 0,
+   "area": 0.003125,
+   "contrast": 51.359773229175616,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.00177244375,
+   "contrast": 42.70601953340147,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0022656,
+   "contrast": 48.460425766428926,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 1,
+   "area": 0.00287109375,
+   "contrast": 41.37265272061473,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0027685875000000005,
+   "contrast": 56.41679023923235,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0032129125,
+   "contrast": 33.51942546466537,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002402325,
+   "contrast": 33.81454506952552,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0022265625,
+   "contrast": 35.326333389090124,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.00287109375,
+   "contrast": 54.89570499525798,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0030078125,
+   "contrast": 42.365493702886816,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.001826171875,
+   "contrast": 45.0850417633847,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0019677937500000003,
+   "contrast": 43.85640021278727,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0025390625,
+   "contrast": 30.322532973304853,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002077625781,
+   "contrast": 28.903545848873197,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0030443773439999995,
+   "contrast": 27.941340178414553,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.00247066875,
+   "contrast": 75.43452768334508,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0029663226560000004,
+   "contrast": 62.75025867250962,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002441375,
+   "contrast": 62.39131166664454,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0019335937500000002,
+   "contrast": 42.29011759811145,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002856425,
+   "contrast": 59.265603475472986,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002624458594,
+   "contrast": 42.221048057581235,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.00256344375,
+   "contrast": 39.53365132408088,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0027685875000000005,
+   "contrast": 27.89601286263981,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002834485156,
+   "contrast": 25.801905844331653,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.00234375,
+   "contrast": 25.7170470780894,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002109375,
+   "contrast": 47.013624567864845,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002570810156,
+   "contrast": 28.94536291693098,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002441375,
+   "contrast": 59.287205828913876,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002441375,
+   "contrast": 72.24521195177294,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0024390148440000003,
+   "contrast": 39.43964878528607,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0022265625,
+   "contrast": 47.63634627486556,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0019335937500000002,
+   "contrast": 39.43107551978502,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.002502389844,
+   "contrast": 40.55344342600425,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0024609375,
+   "contrast": 67.46461352656785,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0021972375,
+   "contrast": 52.54365620662103,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00175.jpg",
+   "cls": 0,
+   "area": 0.0022851374999999998,
+   "contrast": 48.94405760070343,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00179.jpg",
+   "cls": 1,
+   "area": 0.003149390625,
+   "contrast": 53.201471392500366,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00179.jpg",
+   "cls": 1,
+   "area": 0.001318375,
+   "contrast": 85.92669720598828,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00179.jpg",
+   "cls": 0,
+   "area": 0.002109375,
+   "contrast": 46.283387957392144,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00179.jpg",
+   "cls": 0,
+   "area": 0.00227053125,
+   "contrast": 49.180422527621445,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00197.jpg",
+   "cls": 0,
+   "area": 0.0015258593749999999,
+   "contrast": 45.58075080283343,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00204.jpg",
+   "cls": 1,
+   "area": 0.03723140625,
+   "contrast": 17.375418028724873,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00205.jpg",
+   "cls": 1,
+   "area": 0.03601078125,
+   "contrast": 17.216938481034376,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00206.jpg",
+   "cls": 1,
+   "area": 0.0384521875,
+   "contrast": 16.925997516756755,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00212.jpg",
+   "cls": 2,
+   "area": 0.0040283125,
+   "contrast": 14.712838980087918,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00212.jpg",
+   "cls": 2,
+   "area": 0.00390625,
+   "contrast": 13.165376881711362,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00212.jpg",
+   "cls": 2,
+   "area": 0.00354003125,
+   "contrast": 16.77998529528876,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00213.jpg",
+   "cls": 2,
+   "area": 0.00390625,
+   "contrast": 14.870050199792061,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00213.jpg",
+   "cls": 2,
+   "area": 0.0040283125,
+   "contrast": 13.374505453297848,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00217.jpg",
+   "cls": 1,
+   "area": 0.016143888671999996,
+   "contrast": 15.76589125397407,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00218.jpg",
+   "cls": 1,
+   "area": 0.01684575,
+   "contrast": 14.798036382442687,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00220.jpg",
+   "cls": 2,
+   "area": 0.029129131835999997,
+   "contrast": 16.96632454232742,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00224.jpg",
+   "cls": 1,
+   "area": 0.026092580077999996,
+   "contrast": 17.015612528817684,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00230.jpg",
+   "cls": 2,
+   "area": 0.010304173192,
+   "contrast": 7.289444881026438,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00231.jpg",
+   "cls": 2,
+   "area": 0.0210266516,
+   "contrast": 5.6431962224301415,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00232.jpg",
+   "cls": 1,
+   "area": 0.10926141252599998,
+   "contrast": 9.761042102663724,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00232.jpg",
+   "cls": 1,
+   "area": 0.205515482115,
+   "contrast": 13.340306504761505,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00233.jpg",
+   "cls": 1,
+   "area": 0.097435458355,
+   "contrast": 8.934665529585105,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00233.jpg",
+   "cls": 1,
+   "area": 0.05056244512,
+   "contrast": 9.679472511274929,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00233.jpg",
+   "cls": 2,
+   "area": 0.013444262552000001,
+   "contrast": 7.871210050089819,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00234.jpg",
+   "cls": 1,
+   "area": 0.04617740753999999,
+   "contrast": 9.054312587710095,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00235.jpg",
+   "cls": 1,
+   "area": 0.09512245248,
+   "contrast": 12.166791805235892,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00237.jpg",
+   "cls": 1,
+   "area": 0.21525762574799998,
+   "contrast": 8.504461834124882,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00238.jpg",
+   "cls": 1,
+   "area": 0.053371488455999996,
+   "contrast": 7.341623185675744,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00239.jpg",
+   "cls": 1,
+   "area": 0.022339987578000004,
+   "contrast": 16.49964857909285,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00240.jpg",
+   "cls": 2,
+   "area": 0.104419551704,
+   "contrast": 11.670730586505236,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00240.jpg",
+   "cls": 2,
+   "area": 0.001653027944,
+   "contrast": 8.715549273473043,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00244.jpg",
+   "cls": 2,
+   "area": 0.154366176525,
+   "contrast": 10.416248535489014,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00245.jpg",
+   "cls": 2,
+   "area": 0.159666584775,
+   "contrast": 10.556691520939275,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00246.jpg",
+   "cls": 2,
+   "area": 0.12013172288,
+   "contrast": 10.68264495776285,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00247.jpg",
+   "cls": 1,
+   "area": 0.09394266373999999,
+   "contrast": 14.772291048778726,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00247.jpg",
+   "cls": 1,
+   "area": 0.021568650515999998,
+   "contrast": 12.279512034084096,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00247.jpg",
+   "cls": 1,
+   "area": 0.009877430345999999,
+   "contrast": 14.124124331361248,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00248.jpg",
+   "cls": 1,
+   "area": 0.014213439629999998,
+   "contrast": 17.244876620631448,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00248.jpg",
+   "cls": 1,
+   "area": 0.00295102686,
+   "contrast": 28.85083368854054,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00248.jpg",
+   "cls": 2,
+   "area": 0.0016319966939999998,
+   "contrast": 5.928246370807957,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00248.jpg",
+   "cls": 0,
+   "area": 0.009361142820000001,
+   "contrast": 13.90858816866157,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00249.jpg",
+   "cls": 1,
+   "area": 0.14468579706999998,
+   "contrast": 15.778201215227242,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00249.jpg",
+   "cls": 1,
+   "area": 0.069312600286,
+   "contrast": 17.010657165150047,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00250.jpg",
+   "cls": 1,
+   "area": 0.003524121228,
+   "contrast": 34.410040199883326,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00250.jpg",
+   "cls": 1,
+   "area": 0.002166529689,
+   "contrast": 22.892401837567935,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00250.jpg",
+   "cls": 2,
+   "area": 0.018432444822,
+   "contrast": 7.484038964103529,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00250.jpg",
+   "cls": 1,
+   "area": 0.003219330255,
+   "contrast": 8.496236754074305,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00251.jpg",
+   "cls": 1,
+   "area": 0.07750145958,
+   "contrast": 15.293859293945976,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00253.jpg",
+   "cls": 1,
+   "area": 0.08719627092000001,
+   "contrast": 12.8303455480629,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00253.jpg",
+   "cls": 2,
+   "area": 0.0017325937500000002,
+   "contrast": 7.149075902494382,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00253.jpg",
+   "cls": 2,
+   "area": 0.000618192459,
+   "contrast": 12.373330588646075,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00254.jpg",
+   "cls": 1,
+   "area": 0.003950607543,
+   "contrast": 17.135127226611107,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00254.jpg",
+   "cls": 1,
+   "area": 0.053265472056,
+   "contrast": 11.88003592228145,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00254.jpg",
+   "cls": 1,
+   "area": 0.002136722625,
+   "contrast": 13.90288315955793,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00254.jpg",
+   "cls": 2,
+   "area": 0.001598804094,
+   "contrast": 6.2522506002420855,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00255.jpg",
+   "cls": 1,
+   "area": 0.002113691337,
+   "contrast": 21.235640054404133,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00255.jpg",
+   "cls": 0,
+   "area": 0.004085119602,
+   "contrast": 12.144493578957311,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00255.jpg",
+   "cls": 1,
+   "area": 0.051709314256000005,
+   "contrast": 16.3690146982557,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00256.jpg",
+   "cls": 2,
+   "area": 0.048638660640000005,
+   "contrast": 9.676983454951552,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00258.jpg",
+   "cls": 2,
+   "area": 0.006026697624,
+   "contrast": 9.618554671972625,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00259.jpg",
+   "cls": 2,
+   "area": 0.005633794679999999,
+   "contrast": 11.32817203427809,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00263.jpg",
+   "cls": 1,
+   "area": 0.052980417728999994,
+   "contrast": 9.510207200151974,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00263.jpg",
+   "cls": 1,
+   "area": 0.05844604507,
+   "contrast": 10.326454124665206,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00266.jpg",
+   "cls": 0,
+   "area": 0.04506998565400001,
+   "contrast": 9.474985657378985,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00266.jpg",
+   "cls": 2,
+   "area": 0.039686339772,
+   "contrast": 10.732840994038241,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00266.jpg",
+   "cls": 2,
+   "area": 0.009294708729,
+   "contrast": 17.534856176140522,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00267.jpg",
+   "cls": 2,
+   "area": 0.31014454488599996,
+   "contrast": 17.78433784990989,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00270.jpg",
+   "cls": 1,
+   "area": 0.22031459679600002,
+   "contrast": 9.171941586836864,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00270.jpg",
+   "cls": 1,
+   "area": 0.15053775,
+   "contrast": 10.965534348507878,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00271.jpg",
+   "cls": 0,
+   "area": 0.000495225026,
+   "contrast": 25.68490899921822,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00274.jpg",
+   "cls": 2,
+   "area": 0.093341116724,
+   "contrast": 11.386313213412238,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00274.jpg",
+   "cls": 2,
+   "area": 0.06403223276,
+   "contrast": 18.255511909485524,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00275.jpg",
+   "cls": 1,
+   "area": 0.0016736585099999999,
+   "contrast": 21.703863312889297,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00275.jpg",
+   "cls": 1,
+   "area": 0.02897365173,
+   "contrast": 14.430182381244116,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00276.jpg",
+   "cls": 2,
+   "area": 0.058144621488,
+   "contrast": 8.122467957318715,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00276.jpg",
+   "cls": 2,
+   "area": 0.001117787331,
+   "contrast": 14.634667120449118,
+   "cls_name": "wrinkle",
+   "small_area": true,
+   "low_contrast": true
+  },
+  {
+   "image": "v00277.jpg",
+   "cls": 1,
+   "area": 0.047456518725,
+   "contrast": 17.19580694592132,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00278.jpg",
+   "cls": 1,
+   "area": 0.062042066943999996,
+   "contrast": 17.151392508904838,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00279.jpg",
+   "cls": 2,
+   "area": 0.00580924716,
+   "contrast": 16.53782873756907,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00280.jpg",
+   "cls": 0,
+   "area": 0.008223063779,
+   "contrast": 12.180452965661122,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00281.jpg",
+   "cls": 1,
+   "area": 0.159813689256,
+   "contrast": 17.850856722229935,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00282.jpg",
+   "cls": 2,
+   "area": 0.117642441294,
+   "contrast": 6.805830153369244,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00283.jpg",
+   "cls": 1,
+   "area": 0.0008383687240000001,
+   "contrast": 25.488377876544554,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00283.jpg",
+   "cls": 1,
+   "area": 0.00126009375,
+   "contrast": 23.6799449270142,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00283.jpg",
+   "cls": 0,
+   "area": 0.003555347728,
+   "contrast": 24.09480909525326,
+   "cls_name": "hole",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00284.jpg",
+   "cls": 2,
+   "area": 0.6027158145,
+   "contrast": 12.773767302190985,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00284.jpg",
+   "cls": 2,
+   "area": 0.026607673116,
+   "contrast": 11.1065362553162,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00284.jpg",
+   "cls": 2,
+   "area": 0.064394343468,
+   "contrast": 13.574051872561215,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00285.jpg",
+   "cls": 1,
+   "area": 0.000569078499,
+   "contrast": 33.60109335570762,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00286.jpg",
+   "cls": 1,
+   "area": 0.0005853214100000001,
+   "contrast": 18.991951569453672,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00288.jpg",
+   "cls": 1,
+   "area": 0.0028351875,
+   "contrast": 32.92211794569838,
+   "cls_name": "stain",
+   "small_area": true,
+   "low_contrast": false
+  },
+  {
+   "image": "v00290.jpg",
+   "cls": 2,
+   "area": 0.22756791684000002,
+   "contrast": 7.151976601726272,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00290.jpg",
+   "cls": 2,
+   "area": 0.222259772004,
+   "contrast": 9.802946514720531,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00291.jpg",
+   "cls": 0,
+   "area": 0.024417774459,
+   "contrast": 9.34233266745827,
+   "cls_name": "hole",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00292.jpg",
+   "cls": 1,
+   "area": 0.06552110957,
+   "contrast": 5.8071998370233535,
+   "cls_name": "stain",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00293.jpg",
+   "cls": 2,
+   "area": 0.006106972392,
+   "contrast": 11.362401482752773,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00296.jpg",
+   "cls": 2,
+   "area": 0.25638249322,
+   "contrast": 10.21519157354767,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00297.jpg",
+   "cls": 2,
+   "area": 0.046143198036000005,
+   "contrast": 11.571074801746688,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  },
+  {
+   "image": "v00298.jpg",
+   "cls": 2,
+   "area": 0.0534924703,
+   "contrast": 10.609177943599033,
+   "cls_name": "wrinkle",
+   "small_area": false,
+   "low_contrast": true
+  }
+ ]
+}

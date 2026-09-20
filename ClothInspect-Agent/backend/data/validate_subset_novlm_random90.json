@@ -1,0 +1,49 @@
+{
+  "n_images": 90,
+  "n_total": 300,
+  "sample_mode": "random",
+  "seed": 20260922,
+  "threshold": 0.6,
+  "infer_conf": 0.25,
+  "vlm_mode": "off",
+  "vlm_model": "qwen3-vl-plus",
+  "vlm_calls": 0,
+  "avg_calls_per_img": 0.0,
+  "avg_vlm_latency_ms": 0,
+  "collab": {
+    "strict": {
+      "P": 0.5972,
+      "R": 0.6774,
+      "F1": 0.6348,
+      "TP": 126,
+      "FP": 85,
+      "FN": 60
+    },
+    "agnostic": {
+      "P": 0.763,
+      "R": 0.8656,
+      "F1": 0.8111,
+      "TP": 161,
+      "FP": 50,
+      "FN": 25
+    }
+  },
+  "baseline": {
+    "strict": {
+      "P": 0.6114,
+      "R": 0.6344,
+      "F1": 0.6227,
+      "TP": 118,
+      "FP": 75,
+      "FN": 68
+    },
+    "agnostic": {
+      "P": 0.7876,
+      "R": 0.8172,
+      "F1": 0.8021,
+      "TP": 152,
+      "FP": 41,
+      "FN": 34
+    }
+  }
+}
