@@ -18,6 +18,11 @@ matplotlib.rcParams["text.color"] = "black"
 matplotlib.rcParams["axes.labelcolor"] = "black"
 matplotlib.rcParams["xtick.color"] = "black"
 matplotlib.rcParams["ytick.color"] = "black"
+# 《计算机工程与应用》要求：横、纵坐标的刻度线置于坐标轴内侧
+matplotlib.rcParams["xtick.direction"] = "in"
+matplotlib.rcParams["ytick.direction"] = "in"
+matplotlib.rcParams["xtick.top"] = False
+matplotlib.rcParams["ytick.right"] = False
 
 W = 3.15  # 8cm 宽
 OUT = Path(r"E:\CodeBase_YangJunJie\Paper\paper_experiments\week5_mvp")
