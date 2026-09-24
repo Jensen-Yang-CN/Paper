@@ -65,3 +65,7 @@ Word双栏排版手把手教程.md
 软著_源程序文档.docx
 项目相关文献检索汇总_40篇.md
 参考文献_著录信息_crossref.json
+
+# 文档生成脚本（与项目无关，本地保留）
+md2docx
+make_software_copyright_doc.py

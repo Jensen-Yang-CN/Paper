@@ -107,10 +107,6 @@ Paper/
 ├── 论文初稿_v6_模板版.docx          ★ 论文（《计算机工程与应用》官方模板版）
 ├── 项目相关文献检索汇总_40篇.docx     引用文献汇总
 │
-├── md2docx.py                   ★ Markdown → DOCX 转换器（三线表 / 图题表题中英对照 / 图片按真实 DPI 限宽 8 cm）
-├── md2docx_cea.py / _cea2.py / _cea3.py  期刊模板专用转换脚本（cea3：首页脚注 + 变量斜体）
-├── make_software_copyright_doc.py 软著源程序文档生成脚本
-│
 ├── paper_experiments/           按周组织的实验代码与结果
 │   ├── week1_vlm_probe/         大模型能力探针、数据清洗、重新标注管线
 │   ├── week2_test_relabel/      test 集重标注、基线评测、置信度-错误率（H1）
