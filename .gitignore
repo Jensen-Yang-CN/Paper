@@ -67,5 +67,8 @@ Word双栏排版手把手教程.md
 参考文献_著录信息_crossref.json
 
 # 文档生成脚本（与项目无关，本地保留）
-md2docx
+md2docx.py
+md2docx_cea.py
+md2docx_cea2.py
+md2docx_cea3.py
 make_software_copyright_doc.py
