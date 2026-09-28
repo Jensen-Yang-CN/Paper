@@ -72,3 +72,8 @@ md2docx_cea.py
 md2docx_cea2.py
 md2docx_cea3.py
 make_software_copyright_doc.py
+
+# ==================== 抓取/临时文件（本地保留，不入仓库）====================
+# 注意：仓库里真正的代码 __init__.py 必须保留，故显式放行
+_*
+!__init__.py
